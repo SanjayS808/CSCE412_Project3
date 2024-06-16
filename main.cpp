@@ -1,7 +1,7 @@
 #include <iostream>
 #include "Request.h"
 #include "RequestQueue.h"
-#include "Webserver.h"
+#include "WebServer.h"
 
 int main() {
     Request test;
