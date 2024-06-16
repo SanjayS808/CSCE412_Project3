@@ -1,0 +1,2118 @@
+Server Count: 10
+Simulation Run Time: 10000
+Initial Queue Size: 1000
+
+Simulation started
+Server 0 is processing request from 167.241.217.42 to 130.200.216.254 for 174 seconds Ratio: 99
+Server 1 is processing request from 77.152.85.140 to 226.179.71.23 for 230 seconds Ratio: 99
+Server 2 is processing request from 152.84.47.17 to 45.5.88.245 for 100 seconds Ratio: 99
+Server 3 is processing request from 214.136.7.153 to 146.72.51.98 for 134 seconds Ratio: 99
+Server 4 is processing request from 243.13.35.229 to 95.48.209.200 for 236 seconds Ratio: 99
+Server 5 is processing request from 97.12.75.2 to 53.57.129.132 for 195 seconds Ratio: 99
+Server 6 is processing request from 20.162.156.180 to 90.103.42.202 for 50 seconds Ratio: 99
+Server 7 is processing request from 72.233.197.241 to 176.196.21.138 for 232 seconds Ratio: 99
+Server 8 is processing request from 155.77.57.246 to 247.232.161.5 for 116 seconds Ratio: 99
+Server 9 is processing request from 254.237.165.213 to 243.217.228.91 for 49 seconds Ratio: 99
+Server 10 has been allocated. 99
+Server 10 is processing request from 108.195.81.226 to 32.174.12.225 for 189 seconds Ratio: 89
+Server 11 has been allocated. 89
+Server 11 is processing request from 152.109.97.255 to 52.161.30.25 for 148 seconds Ratio: 82
+Server 12 has been allocated. 82
+Server 12 is processing request from 54.80.233.183 to 129.143.195.58 for 143 seconds Ratio: 75
+Server 13 has been allocated. 75
+Server 13 is processing request from 15.192.44.68 to 85.122.200.171 for 219 seconds Ratio: 70
+Server 14 has been allocated. 70
+Server 14 is processing request from 201.178.222.178 to 246.181.226.76 for 18 seconds Ratio: 65
+Server 15 has been allocated. 65
+Server 15 is processing request from 221.159.136.103 to 189.206.31.242 for 58 seconds Ratio: 61
+Server 16 has been allocated. 61
+Server 16 is processing request from 0.142.120.151 to 151.14.52.98 for 96 seconds Ratio: 57
+Server 17 has been allocated. 57
+Server 17 is processing request from 215.94.71.161 to 88.41.142.91 for 7 seconds Ratio: 54
+Server 18 has been allocated. 54
+Server 18 is processing request from 245.98.70.134 to 156.196.46.54 for 227 seconds Ratio: 51
+Server 19 has been allocated. 51
+Server 19 is processing request from 2.115.18.100 to 230.6.135.239 for 198 seconds Ratio: 49
+Server 17 has processed request
+Server 17 is processing request from 9.209.8.83 to 79.81.248.101 for 124 seconds Ratio: 48
+Server 14 has processed request
+Server 14 is processing request from 180.240.128.183 to 203.25.238.154 for 12 seconds Ratio: 48
+New request from 126.204.247.135 to 200.251.208.141for 153ms was added to queue
+New request from 20.43.79.235 to 130.108.109.203for 235ms was added to queue
+Server 14 has processed request
+New request from 200.239.95.241 to 217.9.192.131for 84ms was added to queue
+Server 14 is processing request from 215.24.204.79 to 162.124.140.55 for 242 seconds Ratio: 49
+New request from 4.64.175.39 to 153.120.216.1for 173ms was added to queue
+Server 9 has processed request
+Server 6 has processed request
+Server 9 is processing request from 193.173.165.209 to 51.209.58.190 for 212 seconds Ratio: 49
+Server 6 is processing request from 240.33.233.177 to 183.140.203.216 for 18 seconds Ratio: 48
+Server 15 has processed request
+Server 15 is processing request from 127.242.179.140 to 109.72.208.30 for 235 seconds Ratio: 48
+Server 6 has processed request
+Server 6 is processing request from 27.45.79.175 to 113.113.128.95 for 106 seconds Ratio: 48
+New request from 33.110.149.22 to 19.84.23.250for 100ms was added to queue
+Server 2 has processed request
+Server 2 is processing request from 242.211.158.244 to 196.241.155.148 for 139 seconds Ratio: 48
+Server 16 has processed request
+Server 16 is processing request from 232.29.171.129 to 147.179.115.126 for 170 seconds Ratio: 48
+Server 8 has processed request
+Server 8 is processing request from 39.217.196.57 to 87.22.100.65 for 46 seconds Ratio: 48
+Server 3 has processed request
+Server 3 is processing request from 53.21.232.240 to 60.149.216.232 for 51 seconds Ratio: 48
+Server 17 has processed request
+Server 17 is processing request from 30.24.100.250 to 173.104.221.252 for 66 seconds Ratio: 48
+Server 12 has processed request
+Server 12 is processing request from 50.19.1.9 to 57.11.15.31 for 24 seconds Ratio: 48
+Server 11 has processed request
+Server 11 is processing request from 202.113.104.5 to 248.54.46.152 for 195 seconds Ratio: 48
+Server 8 has processed request
+Server 8 is processing request from 202.173.200.106 to 219.237.37.128 for 179 seconds Ratio: 48
+Server 12 has processed request
+Server 12 is processing request from 154.157.207.166 to 38.67.25.221 for 92 seconds Ratio: 48
+Server 0 has processed request
+Server 6 has processed request
+Server 0 is processing request from 232.58.137.197 to 31.60.109.25 for 128 seconds Ratio: 48
+Server 6 is processing request from 56.222.16.230 to 96.195.123.232 for 231 seconds Ratio: 48
+Server 3 has processed request
+Server 3 is processing request from 195.242.179.22 to 96.222.139.201 for 114 seconds Ratio: 48
+Server 10 has processed request
+Server 10 is processing request from 2.185.16.50 to 98.205.185.65 for 16 seconds Ratio: 48
+Server 5 has processed request
+Server 5 is processing request from 115.118.245.211 to 219.183.163.213 for 146 seconds Ratio: 48
+Server 17 has processed request
+Server 10 has processed request
+Server 17 is processing request from 135.121.127.196 to 129.154.3.94 for 181 seconds Ratio: 48
+Server 10 is processing request from 112.76.237.179 to 113.16.238.127 for 231 seconds Ratio: 48
+Server 19 has processed request
+Server 19 is processing request from 107.12.136.5 to 170.235.244.150 for 185 seconds Ratio: 48
+New request from 154.243.91.23 to 34.89.211.249for 93ms was added to queue
+Server 13 has processed request
+Server 13 is processing request from 124.71.8.206 to 141.78.9.35 for 61 seconds Ratio: 48
+Server 1 has processed request
+Server 1 is processing request from 231.23.146.168 to 163.178.187.205 for 69 seconds Ratio: 48
+Server 7 has processed request
+Server 7 is processing request from 50.27.62.21 to 56.12.84.30 for 197 seconds Ratio: 47
+Server 4 has processed request
+Server 18 has processed request
+Server 4 is processing request from 147.8.136.150 to 159.116.87.175 for 52 seconds Ratio: 47
+Server 18 is processing request from 133.136.130.106 to 65.157.88.49 for 13 seconds Ratio: 47
+Server 2 has processed request
+Server 2 is processing request from 23.132.181.72 to 78.236.219.57 for 12 seconds Ratio: 47
+Server 18 has processed request
+Server 18 is processing request from 106.10.202.17 to 185.29.240.134 for 154 seconds Ratio: 47
+Server 2 has processed request
+Server 2 is processing request from 80.11.141.238 to 80.31.215.235 for 38 seconds Ratio: 47
+Server 9 has processed request
+Server 9 is processing request from 206.9.161.125 to 116.18.75.70 for 196 seconds Ratio: 47
+Server 12 has processed request
+Server 12 is processing request from 173.252.7.119 to 190.217.129.109 for 190 seconds Ratio: 47
+Server 16 has processed request
+Server 16 is processing request from 126.132.136.84 to 74.24.216.4 for 81 seconds Ratio: 47
+Server 14 has processed request
+New request from 164.67.190.195 to 168.255.16.107for 217ms was added to queue
+Server 14 is processing request from 179.40.59.10 to 117.43.136.27 for 172 seconds Ratio: 47
+Server 13 has processed request
+Server 13 is processing request from 80.15.173.181 to 144.16.230.61 for 128 seconds Ratio: 47
+Server 4 has processed request
+Server 2 has processed request
+Server 4 is processing request from 102.79.139.218 to 45.191.51.203 for 32 seconds Ratio: 47
+Server 2 is processing request from 226.28.142.179 to 236.169.217.213 for 104 seconds Ratio: 47
+New request from 14.210.140.45 to 71.38.58.52for 162ms was added to queue
+Server 1 has processed request
+Server 3 has processed request
+Server 15 has processed request
+Server 1 is processing request from 20.76.8.233 to 87.126.208.209 for 224 seconds Ratio: 47
+Server 3 is processing request from 229.96.135.81 to 9.179.64.152 for 126 seconds Ratio: 47
+Server 15 is processing request from 128.71.61.188 to 46.104.154.59 for 21 seconds Ratio: 47
+Server 0 has processed request
+Server 0 is processing request from 56.231.122.10 to 51.72.254.150 for 185 seconds Ratio: 47
+New request from 102.160.53.217 to 49.12.232.186for 202ms was added to queue
+Server 4 has processed request
+Server 15 has processed request
+Server 4 is processing request from 201.191.129.218 to 54.241.134.140 for 30 seconds Ratio: 47
+Server 15 is processing request from 210.71.136.250 to 76.12.119.139 for 49 seconds Ratio: 47
+Server 5 has processed request
+Server 8 has processed request
+Server 5 is processing request from 209.35.20.40 to 84.149.99.101 for 211 seconds Ratio: 47
+Server 8 is processing request from 207.64.134.27 to 61.115.127.211 for 194 seconds Ratio: 47
+New request from 51.224.170.9 to 252.74.121.198for 78ms was added to queue
+Server 11 has processed request
+Server 11 is processing request from 187.89.28.91 to 93.37.145.110 for 34 seconds Ratio: 47
+Server 4 has processed request
+Server 4 is processing request from 216.97.118.177 to 78.14.103.210 for 187 seconds Ratio: 47
+New request from 213.34.16.168 to 183.119.65.7for 129ms was added to queue
+Server 16 has processed request
+Server 16 is processing request from 57.87.240.207 to 108.135.131.75 for 236 seconds Ratio: 47
+New request from 240.102.191.156 to 237.64.39.28for 49ms was added to queue
+Server 15 has processed request
+Server 15 is processing request from 40.84.5.136 to 54.11.167.199 for 46 seconds Ratio: 47
+New request from 236.58.67.243 to 183.31.213.160for 178ms was added to queue
+Server 11 has processed request
+Server 11 is processing request from 248.133.65.99 to 79.183.186.222 for 140 seconds Ratio: 47
+Server 17 has processed request
+Server 17 is processing request from 148.255.103.29 to 31.235.220.189 for 122 seconds Ratio: 47
+New request from 80.157.5.196 to 159.133.223.177for 231ms was added to queue
+Server 2 has processed request
+Server 19 has processed request
+Server 2 is processing request from 22.210.218.119 to 144.56.237.118 for 228 seconds Ratio: 47
+Server 19 is processing request from 137.108.41.25 to 139.38.87.181 for 17 seconds Ratio: 46
+Server 18 has processed request
+Server 18 is processing request from 80.234.5.79 to 100.79.65.41 for 3 seconds Ratio: 46
+Server 6 has processed request
+Server 6 is processing request from 186.141.141.84 to 75.114.118.51 for 222 seconds Ratio: 46
+Server 18 has processed request
+Server 18 is processing request from 64.117.67.152 to 4.103.150.224 for 107 seconds Ratio: 46
+New request from 180.227.102.20 to 174.175.25.63for 143ms was added to queue
+Server 19 has processed request
+Server 19 is processing request from 98.111.239.146 to 55.206.91.97 for 44 seconds Ratio: 46
+New request from 211.243.141.239 to 185.44.108.249for 106ms was added to queue
+Server 13 has processed request
+Server 13 is processing request from 192.134.119.238 to 90.191.189.133 for 194 seconds Ratio: 46
+Server 15 has processed request
+Server 15 is processing request from 63.127.136.104 to 203.27.95.186 for 87 seconds Ratio: 46
+Server 3 has processed request
+Server 3 is processing request from 19.9.241.96 to 97.170.19.56 for 240 seconds Ratio: 46
+Server 7 has processed request
+Server 7 is processing request from 251.226.167.88 to 210.187.230.170 for 115 seconds Ratio: 46
+Server 10 has processed request
+Server 10 is processing request from 10.148.13.65 to 183.211.184.105 for 121 seconds Ratio: 46
+Server 14 has processed request
+Server 14 is processing request from 233.69.21.10 to 164.164.14.111 for 98 seconds Ratio: 46
+Server 12 has processed request
+Server 12 is processing request from 25.238.194.75 to 38.129.205.92 for 221 seconds Ratio: 46
+Server 19 has processed request
+Server 19 is processing request from 107.80.39.52 to 54.88.64.102 for 45 seconds Ratio: 46
+Server 9 has processed request
+Server 9 is processing request from 102.86.213.239 to 237.115.21.117 for 212 seconds Ratio: 46
+New request from 41.31.169.245 to 147.15.45.136for 69ms was added to queue
+Server 0 has processed request
+Server 0 is processing request from 137.214.136.21 to 221.185.229.248 for 4 seconds Ratio: 46
+Server 0 has processed request
+Server 0 is processing request from 253.83.182.236 to 9.102.22.167 for 144 seconds Ratio: 46
+Server 19 has processed request
+Server 19 is processing request from 185.66.31.103 to 4.206.211.110 for 153 seconds Ratio: 46
+Server 15 has processed request
+Server 15 is processing request from 228.132.186.12 to 108.90.72.85 for 98 seconds Ratio: 46
+Server 17 has processed request
+New request from 187.64.6.52 to 191.5.148.188for 151ms was added to queue
+Server 17 is processing request from 28.51.165.74 to 200.43.232.3 for 4 seconds Ratio: 46
+Server 17 has processed request
+Server 17 is processing request from 207.209.117.119 to 159.196.68.183 for 131 seconds Ratio: 46
+Server 18 has processed request
+Server 18 is processing request from 170.144.1.238 to 250.190.188.12 for 144 seconds Ratio: 46
+New request from 187.87.7.169 to 111.220.67.191for 211ms was added to queue
+Server 11 has processed request
+Server 11 is processing request from 151.84.136.124 to 123.10.39.175 for 234 seconds Ratio: 46
+Server 1 has processed request
+Server 1 is processing request from 196.21.248.160 to 44.90.241.239 for 249 seconds Ratio: 46
+New request from 249.5.205.136 to 179.179.177.141for 83ms was added to queue
+Server 8 has processed request
+Server 8 is processing request from 38.173.30.93 to 146.177.226.154 for 56 seconds Ratio: 46
+Server 4 has processed request
+Server 4 is processing request from 175.91.33.134 to 195.9.79.74 for 2 seconds Ratio: 46
+Server 4 has processed request
+Server 4 is processing request from 123.207.170.101 to 215.178.116.33 for 36 seconds Ratio: 46
+Server 7 has processed request
+Server 7 is processing request from 182.76.134.243 to 8.91.36.147 for 67 seconds Ratio: 45
+Server 14 has processed request
+Server 14 is processing request from 24.50.251.49 to 10.111.6.65 for 12 seconds Ratio: 45
+Server 5 has processed request
+Server 5 is processing request from 226.152.210.48 to 98.171.200.23 for 37 seconds Ratio: 45
+Server 10 has processed request
+Server 10 is processing request from 23.48.35.200 to 192.76.92.58 for 205 seconds Ratio: 45
+Server 14 has processed request
+Server 14 is processing request from 203.244.175.114 to 55.43.56.31 for 105 seconds Ratio: 45
+Server 4 has processed request
+Server 4 is processing request from 152.101.200.240 to 227.199.11.147 for 107 seconds Ratio: 45
+Server 5 has processed request
+Server 5 is processing request from 69.167.65.155 to 60.68.24.66 for 34 seconds Ratio: 45
+Server 16 has processed request
+Server 8 has processed request
+Server 16 is processing request from 250.204.61.7 to 10.195.180.51 for 50 seconds Ratio: 45
+Server 8 is processing request from 18.11.110.133 to 183.45.173.207 for 187 seconds Ratio: 45
+Server 15 has processed request
+Server 15 is processing request from 178.59.23.60 to 52.246.190.27 for 48 seconds Ratio: 45
+Server 13 has processed request
+Server 13 is processing request from 1.246.98.31 to 20.151.176.133 for 202 seconds Ratio: 45
+Server 7 has processed request
+Server 7 is processing request from 142.153.157.152 to 110.248.255.58 for 243 seconds Ratio: 45
+Server 2 has processed request
+Server 2 is processing request from 154.2.56.151 to 153.131.168.104 for 134 seconds Ratio: 45
+Server 5 has processed request
+Server 5 is processing request from 105.225.14.249 to 36.154.135.52 for 197 seconds Ratio: 45
+Server 6 has processed request
+Server 6 is processing request from 200.80.31.25 to 168.167.134.112 for 100 seconds Ratio: 45
+Server 0 has processed request
+Server 0 is processing request from 72.250.64.28 to 64.32.174.8 for 150 seconds Ratio: 45
+Server 16 has processed request
+Server 16 is processing request from 113.87.163.131 to 126.199.33.222 for 49 seconds Ratio: 45
+Server 17 has processed request
+Server 17 is processing request from 214.224.149.146 to 140.91.120.237 for 96 seconds Ratio: 45
+Server 15 has processed request
+Server 15 is processing request from 149.86.12.227 to 61.91.34.119 for 244 seconds Ratio: 45
+New request from 125.52.6.53 to 233.236.7.200for 191ms was added to queue
+Server 19 has processed request
+Server 19 is processing request from 230.109.206.242 to 210.24.120.212 for 112 seconds Ratio: 45
+Server 18 has processed request
+Server 18 is processing request from 223.244.26.77 to 237.202.253.202 for 73 seconds Ratio: 45
+Server 14 has processed request
+Server 3 has processed request
+Server 14 is processing request from 180.189.120.98 to 157.126.196.15 for 223 seconds Ratio: 44
+Server 3 is processing request from 111.29.217.84 to 202.132.163.181 for 106 seconds Ratio: 44
+Server 9 has processed request
+Server 9 is processing request from 132.233.144.48 to 86.232.64.131 for 197 seconds Ratio: 44
+Server 12 has processed request
+Server 12 is processing request from 19.144.243.123 to 184.173.231.153 for 117 seconds Ratio: 44
+Server 4 has processed request
+Server 4 is processing request from 193.228.101.216 to 17.145.101.71 for 140 seconds Ratio: 44
+Server 16 has processed request
+Server 16 is processing request from 75.106.22.48 to 130.233.131.54 for 43 seconds Ratio: 44
+Server 6 has processed request
+Server 6 is processing request from 161.34.76.84 to 246.129.184.220 for 193 seconds Ratio: 44
+Server 18 has processed request
+Server 18 is processing request from 167.146.192.203 to 70.113.212.151 for 173 seconds Ratio: 44
+Server 16 has processed request
+Server 16 is processing request from 204.128.226.22 to 140.233.32.204 for 144 seconds Ratio: 44
+Server 17 has processed request
+Server 17 is processing request from 160.123.31.144 to 233.137.141.22 for 14 seconds Ratio: 44
+Server 11 has processed request
+Server 17 has processed request
+Server 11 is processing request from 153.19.237.91 to 142.232.168.222 for 5 seconds Ratio: 44
+Server 17 is processing request from 182.247.137.86 to 1.253.32.228 for 192 seconds Ratio: 44
+Server 2 has processed request
+Server 2 is processing request from 215.62.111.93 to 36.192.217.126 for 28 seconds Ratio: 44
+Server 11 has processed request
+Server 11 is processing request from 135.21.57.240 to 228.227.44.203 for 135 seconds Ratio: 44
+Server 10 has processed request
+Server 10 is processing request from 119.175.240.51 to 86.209.243.121 for 226 seconds Ratio: 44
+Server 19 has processed request
+Server 19 is processing request from 69.233.64.57 to 229.26.99.179 for 171 seconds Ratio: 44
+New request from 230.60.234.134 to 107.56.127.49for 192ms was added to queue
+Server 3 has processed request
+Server 1 has processed request
+Server 3 is processing request from 64.183.78.48 to 83.217.92.167 for 93 seconds Ratio: 44
+Server 1 is processing request from 13.58.194.10 to 144.101.130.141 for 95 seconds Ratio: 44
+New request from 79.24.159.243 to 117.220.152.165for 240ms was added to queue
+Server 8 has processed request
+Server 8 is processing request from 171.91.251.97 to 136.168.242.145 for 224 seconds Ratio: 44
+Server 2 has processed request
+Server 2 is processing request from 30.180.225.238 to 208.62.47.95 for 80 seconds Ratio: 44
+Server 0 has processed request
+Server 0 is processing request from 140.0.216.227 to 8.65.32.222 for 242 seconds Ratio: 44
+Server 12 has processed request
+Server 12 is processing request from 139.254.144.132 to 41.179.106.137 for 197 seconds Ratio: 44
+Server 13 has processed request
+Server 13 is processing request from 69.214.36.231 to 147.114.204.24 for 180 seconds Ratio: 43
+Server 5 has processed request
+Server 5 is processing request from 55.219.45.32 to 201.114.109.79 for 22 seconds Ratio: 43
+Server 4 has processed request
+Server 4 is processing request from 123.236.242.32 to 19.139.83.188 for 219 seconds Ratio: 43
+Server 5 has processed request
+Server 5 is processing request from 194.218.70.26 to 153.85.175.243 for 78 seconds Ratio: 43
+Server 7 has processed request
+Server 7 is processing request from 47.147.221.150 to 70.75.243.232 for 56 seconds Ratio: 43
+New request from 104.24.80.67 to 202.31.131.134for 120ms was added to queue
+Server 2 has processed request
+Server 2 is processing request from 252.87.80.189 to 190.121.188.47 for 195 seconds Ratio: 43
+Server 3 has processed request
+Server 3 is processing request from 66.127.65.222 to 66.101.154.196 for 242 seconds Ratio: 43
+Server 9 has processed request
+Server 1 has processed request
+Server 9 is processing request from 17.215.206.248 to 8.80.3.70 for 86 seconds Ratio: 43
+Server 1 is processing request from 248.201.211.84 to 20.128.198.132 for 246 seconds Ratio: 43
+Server 16 has processed request
+Server 16 is processing request from 7.206.76.143 to 61.0.58.249 for 79 seconds Ratio: 43
+Server 14 has processed request
+Server 14 is processing request from 173.53.194.115 to 61.15.163.177 for 25 seconds Ratio: 43
+Server 15 has processed request
+Server 11 has processed request
+Server 15 is processing request from 82.166.218.179 to 98.3.217.154 for 145 seconds Ratio: 43
+Server 11 is processing request from 23.154.86.91 to 80.80.244.128 for 198 seconds Ratio: 43
+Server 18 has processed request
+Server 18 is processing request from 92.59.197.96 to 170.40.239.93 for 34 seconds Ratio: 43
+Server 7 has processed request
+Server 7 is processing request from 82.91.250.37 to 78.88.74.134 for 174 seconds Ratio: 43
+Server 14 has processed request
+Server 14 is processing request from 189.75.204.91 to 86.85.27.173 for 61 seconds Ratio: 43
+Server 5 has processed request
+Server 6 has processed request
+Server 5 is processing request from 37.92.183.47 to 128.109.127.60 for 142 seconds Ratio: 43
+Server 6 is processing request from 51.33.176.134 to 64.7.175.186 for 55 seconds Ratio: 43
+Server 19 has processed request
+Server 19 is processing request from 15.249.99.133 to 23.250.141.120 for 10 seconds Ratio: 43
+Server 18 has processed request
+New request from 20.4.42.171 to 97.140.92.243for 249ms was added to queue
+Server 18 is processing request from 82.118.111.58 to 40.197.124.66 for 114 seconds Ratio: 43
+New request from 70.75.145.180 to 44.184.112.106for 17ms was added to queue
+Server 17 has processed request
+Server 19 has processed request
+Server 17 is processing request from 253.212.35.74 to 167.96.206.128 for 231 seconds Ratio: 43
+Server 19 is processing request from 223.30.31.186 to 88.232.177.217 for 186 seconds Ratio: 43
+Server 9 has processed request
+Server 9 is processing request from 167.157.42.196 to 89.47.195.23 for 17 seconds Ratio: 43
+Server 16 has processed request
+Server 16 is processing request from 247.232.51.81 to 210.22.12.9 for 136 seconds Ratio: 42
+Server 9 has processed request
+Server 9 is processing request from 206.165.84.242 to 201.58.97.192 for 207 seconds Ratio: 42
+Server 14 has processed request
+Server 14 is processing request from 226.37.97.45 to 242.181.80.144 for 152 seconds Ratio: 42
+Server 6 has processed request
+Server 6 is processing request from 9.126.24.99 to 131.80.227.186 for 14 seconds Ratio: 42
+New request from 103.230.17.6 to 122.231.80.66for 250ms was added to queue
+Server 12 has processed request
+Server 12 is processing request from 201.173.83.206 to 24.97.59.10 for 115 seconds Ratio: 42
+Server 13 has processed request
+Server 6 has processed request
+Server 10 has processed request
+Server 13 is processing request from 120.49.251.88 to 40.79.143.41 for 111 seconds Ratio: 42
+Server 6 is processing request from 128.167.144.153 to 192.93.250.57 for 194 seconds Ratio: 42
+Server 10 is processing request from 252.30.130.124 to 239.7.134.135 for 71 seconds Ratio: 42
+Server 8 has processed request
+Server 8 is processing request from 91.20.149.204 to 134.113.243.161 for 91 seconds Ratio: 42
+Server 0 has processed request
+Server 0 is processing request from 211.74.239.151 to 130.254.141.14 for 63 seconds Ratio: 42
+Server 15 has processed request
+Server 15 is processing request from 32.127.91.197 to 133.118.71.9 for 3 seconds Ratio: 42
+Server 15 has processed request
+Server 4 has processed request
+Server 15 is processing request from 161.41.195.124 to 192.125.18.79 for 16 seconds Ratio: 42
+Server 4 is processing request from 217.185.230.24 to 232.34.46.123 for 6 seconds Ratio: 42
+Server 4 has processed request
+Server 4 is processing request from 107.72.58.222 to 25.10.93.119 for 199 seconds Ratio: 42
+Server 18 has processed request
+Server 18 is processing request from 234.107.94.251 to 187.17.230.203 for 68 seconds Ratio: 42
+Server 15 has processed request
+Server 15 is processing request from 143.100.69.107 to 134.143.208.122 for 12 seconds Ratio: 42
+Server 2 has processed request
+Server 2 is processing request from 119.183.158.125 to 129.174.108.48 for 166 seconds Ratio: 42
+Server 10 has processed request
+Server 10 is processing request from 167.118.121.38 to 146.9.104.3 for 187 seconds Ratio: 42
+Server 5 has processed request
+Server 5 is processing request from 154.74.250.222 to 182.112.203.253 for 178 seconds Ratio: 42
+Server 15 has processed request
+Server 15 is processing request from 229.134.206.4 to 77.215.131.134 for 83 seconds Ratio: 42
+Server 7 has processed request
+Server 7 is processing request from 25.132.169.5 to 11.7.114.219 for 94 seconds Ratio: 42
+Server 0 has processed request
+Server 0 is processing request from 209.137.37.81 to 21.69.252.56 for 185 seconds Ratio: 41
+Server 11 has processed request
+Server 16 has processed request
+Server 11 is processing request from 147.171.104.20 to 115.70.122.125 for 116 seconds Ratio: 41
+Server 16 is processing request from 97.161.81.111 to 196.171.200.148 for 1 seconds Ratio: 41
+Server 16 has processed request
+Server 8 has processed request
+Server 16 is processing request from 142.239.95.159 to 209.137.51.53 for 199 seconds Ratio: 41
+Server 8 is processing request from 144.0.86.55 to 223.205.62.189 for 144 seconds Ratio: 41
+Server 13 has processed request
+Server 13 is processing request from 105.76.109.234 to 48.10.39.44 for 187 seconds Ratio: 41
+Server 12 has processed request
+Server 12 is processing request from 230.147.31.80 to 100.229.181.237 for 24 seconds Ratio: 41
+Server 3 has processed request
+Server 3 is processing request from 247.40.216.244 to 147.13.62.225 for 190 seconds Ratio: 41
+Server 1 has processed request
+Server 1 is processing request from 91.153.159.174 to 3.44.177.105 for 246 seconds Ratio: 41
+Server 18 has processed request
+Server 18 is processing request from 221.2.122.206 to 41.102.142.165 for 80 seconds Ratio: 41
+Server 14 has processed request
+Server 12 has processed request
+Server 14 is processing request from 11.103.163.95 to 101.118.154.211 for 203 seconds Ratio: 41
+Server 12 is processing request from 28.111.195.190 to 21.178.76.164 for 84 seconds Ratio: 41
+Server 19 has processed request
+Server 19 is processing request from 5.119.168.130 to 98.194.123.18 for 161 seconds Ratio: 41
+Server 15 has processed request
+Server 15 is processing request from 150.62.201.210 to 224.248.223.197 for 149 seconds Ratio: 41
+Server 9 has processed request
+Server 17 has processed request
+Server 9 is processing request from 54.176.60.52 to 169.216.116.32 for 114 seconds Ratio: 41
+Server 17 is processing request from 233.186.115.185 to 237.139.127.201 for 134 seconds Ratio: 41
+Server 7 has processed request
+Server 7 is processing request from 243.72.58.221 to 208.71.62.72 for 199 seconds Ratio: 41
+Server 6 has processed request
+Server 6 is processing request from 114.217.69.120 to 37.92.220.100 for 95 seconds Ratio: 41
+Server 18 has processed request
+Server 18 is processing request from 252.118.223.177 to 14.41.255.115 for 151 seconds Ratio: 41
+Server 11 has processed request
+Server 11 is processing request from 33.186.190.173 to 221.86.168.114 for 221 seconds Ratio: 41
+Server 12 has processed request
+Server 12 is processing request from 162.187.153.13 to 5.171.113.56 for 111 seconds Ratio: 40
+Server 2 has processed request
+Server 2 is processing request from 71.173.62.219 to 238.74.174.38 for 174 seconds Ratio: 40
+Server 8 has processed request
+Server 8 is processing request from 27.53.173.27 to 134.6.188.119 for 40 seconds Ratio: 40
+Server 5 has processed request
+Server 5 is processing request from 183.113.66.226 to 238.208.60.199 for 189 seconds Ratio: 40
+Server 4 has processed request
+Server 4 is processing request from 204.169.116.251 to 26.204.212.159 for 136 seconds Ratio: 40
+Server 10 has processed request
+Server 10 is processing request from 157.254.154.110 to 95.202.235.164 for 194 seconds Ratio: 40
+Server 0 has processed request
+Server 0 is processing request from 88.194.36.65 to 214.122.230.237 for 232 seconds Ratio: 40
+Server 8 has processed request
+Server 6 has processed request
+Server 8 is processing request from 160.144.141.33 to 161.92.186.96 for 53 seconds Ratio: 40
+Server 6 is processing request from 247.12.124.95 to 164.189.197.177 for 127 seconds Ratio: 40
+Server 13 has processed request
+Server 13 is processing request from 49.21.147.241 to 111.151.142.72 for 76 seconds Ratio: 40
+Server 9 has processed request
+Server 9 is processing request from 237.199.195.89 to 41.177.221.6 for 99 seconds Ratio: 40
+Server 16 has processed request
+Server 16 is processing request from 201.239.92.67 to 80.207.5.150 for 1 seconds Ratio: 40
+Server 16 has processed request
+Server 19 has processed request
+Server 16 is processing request from 216.113.74.74 to 133.21.158.231 for 153 seconds Ratio: 40
+Server 19 is processing request from 155.153.174.103 to 184.124.188.167 for 220 seconds Ratio: 40
+Server 3 has processed request
+Server 3 is processing request from 225.167.239.32 to 0.46.125.187 for 118 seconds Ratio: 40
+Server 15 has processed request
+Server 15 is processing request from 170.176.27.79 to 209.106.189.220 for 83 seconds Ratio: 40
+Server 17 has processed request
+Server 17 is processing request from 206.226.72.200 to 57.82.94.113 for 220 seconds Ratio: 40
+Server 12 has processed request
+Server 12 is processing request from 164.2.109.111 to 8.190.195.34 for 82 seconds Ratio: 40
+Server 14 has processed request
+Server 14 is processing request from 11.43.71.27 to 118.205.7.26 for 249 seconds Ratio: 40
+Server 8 has processed request
+Server 8 is processing request from 167.184.115.196 to 127.88.17.174 for 224 seconds Ratio: 40
+Server 18 has processed request
+Server 18 is processing request from 57.235.166.38 to 51.240.20.82 for 152 seconds Ratio: 39
+Server 1 has processed request
+Server 1 is processing request from 181.136.228.138 to 221.31.15.210 for 115 seconds Ratio: 39
+Server 13 has processed request
+Server 13 is processing request from 139.167.68.60 to 75.57.49.173 for 64 seconds Ratio: 39
+Server 7 has processed request
+Server 7 is processing request from 38.125.163.79 to 168.224.132.5 for 27 seconds Ratio: 39
+Server 4 has processed request
+Server 4 is processing request from 220.161.133.217 to 23.104.118.78 for 54 seconds Ratio: 39
+Server 15 has processed request
+Server 15 is processing request from 54.93.194.237 to 181.41.182.209 for 150 seconds Ratio: 39
+Server 9 has processed request
+Server 9 is processing request from 77.106.180.48 to 216.69.141.159 for 82 seconds Ratio: 39
+Server 2 has processed request
+Server 2 is processing request from 19.130.24.249 to 156.54.31.0 for 14 seconds Ratio: 39
+Server 12 has processed request
+Server 7 has processed request
+Server 12 is processing request from 171.167.154.169 to 23.118.251.212 for 30 seconds Ratio: 39
+Server 6 has processed request
+Server 7 is processing request from 237.8.146.13 to 212.10.167.221 for 171 seconds Ratio: 39
+Server 6 is processing request from 102.5.37.47 to 112.133.14.133 for 129 seconds Ratio: 39
+Server 2 has processed request
+Server 2 is processing request from 30.22.28.122 to 107.46.8.31 for 23 seconds Ratio: 39
+Server 3 has processed request
+Server 3 is processing request from 5.235.31.248 to 193.172.202.78 for 124 seconds Ratio: 39
+Server 13 has processed request
+Server 13 is processing request from 216.78.189.108 to 51.250.139.182 for 130 seconds Ratio: 39
+Server 11 has processed request
+Server 5 has processed request
+Server 11 is processing request from 155.10.34.231 to 145.203.35.114 for 28 seconds Ratio: 39
+Server 5 is processing request from 80.244.200.107 to 157.232.177.116 for 58 seconds Ratio: 39
+Server 12 has processed request
+Server 12 is processing request from 168.148.153.109 to 11.238.130.178 for 57 seconds Ratio: 39
+Server 2 has processed request
+Server 2 is processing request from 212.83.189.209 to 24.7.24.50 for 159 seconds Ratio: 39
+Server 4 has processed request
+Server 4 is processing request from 241.73.13.19 to 224.242.90.105 for 236 seconds Ratio: 39
+Server 10 has processed request
+Server 10 is processing request from 211.62.118.76 to 63.151.218.87 for 122 seconds Ratio: 39
+Server 16 has processed request
+Server 16 is processing request from 159.60.140.41 to 106.43.137.214 for 185 seconds Ratio: 38
+Server 11 has processed request
+Server 11 is processing request from 10.108.113.8 to 70.182.55.254 for 25 seconds Ratio: 38
+Server 9 has processed request
+Server 9 is processing request from 47.218.84.252 to 86.77.206.68 for 47 seconds Ratio: 38
+Server 1 has processed request
+Server 1 is processing request from 79.252.66.63 to 194.38.254.38 for 143 seconds Ratio: 38
+Server 11 has processed request
+Server 11 is processing request from 211.223.169.206 to 27.226.140.78 for 197 seconds Ratio: 38
+Server 5 has processed request
+Server 5 is processing request from 126.121.203.16 to 11.54.87.76 for 126 seconds Ratio: 38
+Server 12 has processed request
+Server 12 is processing request from 98.117.57.89 to 115.223.183.176 for 134 seconds Ratio: 38
+Server 18 has processed request
+Server 18 is processing request from 90.179.79.71 to 233.215.25.246 for 41 seconds Ratio: 38
+Server 0 has processed request
+Server 0 is processing request from 107.60.29.199 to 85.158.91.38 for 25 seconds Ratio: 38
+Server 19 has processed request
+Server 19 is processing request from 205.178.85.225 to 80.231.139.62 for 83 seconds Ratio: 38
+Server 9 has processed request
+Server 9 is processing request from 17.11.57.93 to 165.255.242.207 for 95 seconds Ratio: 38
+Server 17 has processed request
+Server 17 is processing request from 70.126.62.146 to 210.179.29.195 for 140 seconds Ratio: 38
+Server 0 has processed request
+Server 0 is processing request from 233.172.15.112 to 68.227.29.185 for 56 seconds Ratio: 38
+Server 15 has processed request
+Server 6 has processed request
+Server 15 is processing request from 139.172.63.61 to 215.160.27.180 for 250 seconds Ratio: 38
+Server 6 is processing request from 23.189.24.245 to 16.132.148.116 for 181 seconds Ratio: 38
+Server 3 has processed request
+Server 3 is processing request from 135.121.156.253 to 248.220.238.127 for 182 seconds Ratio: 38
+Server 18 has processed request
+Server 18 is processing request from 210.32.121.93 to 140.181.28.205 for 118 seconds Ratio: 38
+Server 8 has processed request
+Server 8 is processing request from 233.30.182.47 to 198.227.155.110 for 40 seconds Ratio: 38
+Server 13 has processed request
+Server 13 is processing request from 59.201.203.84 to 216.41.241.99 for 43 seconds Ratio: 38
+Server 10 has processed request
+Server 10 is processing request from 242.65.36.14 to 52.207.93.58 for 43 seconds Ratio: 38
+Server 7 has processed request
+Server 7 is processing request from 126.142.185.201 to 240.176.129.138 for 22 seconds Ratio: 37
+Server 14 has processed request
+Server 14 is processing request from 148.21.15.5 to 232.6.39.248 for 239 seconds Ratio: 37
+Server 0 has processed request
+Server 0 is processing request from 49.244.174.166 to 139.133.96.84 for 86 seconds Ratio: 37
+Server 2 has processed request
+Server 8 has processed request
+Server 2 is processing request from 37.104.64.54 to 147.23.95.151 for 77 seconds Ratio: 37
+Server 8 is processing request from 199.4.9.18 to 106.109.246.156 for 154 seconds Ratio: 37
+Server 19 has processed request
+Server 19 is processing request from 61.193.94.60 to 60.71.223.127 for 218 seconds Ratio: 37
+Server 7 has processed request
+Server 7 is processing request from 237.29.48.114 to 251.223.238.200 for 83 seconds Ratio: 37
+Server 13 has processed request
+Server 13 is processing request from 150.29.163.230 to 81.53.46.198 for 46 seconds Ratio: 37
+Server 10 has processed request
+Server 10 is processing request from 189.93.67.87 to 111.201.55.237 for 216 seconds Ratio: 37
+Server 5 has processed request
+Server 9 has processed request
+Server 5 is processing request from 101.78.165.184 to 227.69.157.56 for 191 seconds Ratio: 37
+Server 9 is processing request from 165.153.200.136 to 95.130.24.248 for 90 seconds Ratio: 37
+Server 1 has processed request
+Server 1 is processing request from 184.130.248.110 to 162.150.38.226 for 72 seconds Ratio: 37
+Server 12 has processed request
+Server 12 is processing request from 123.159.163.145 to 185.14.135.117 for 12 seconds Ratio: 37
+Server 16 has processed request
+Server 16 is processing request from 225.128.32.3 to 146.99.198.83 for 17 seconds Ratio: 37
+Server 12 has processed request
+Server 12 is processing request from 144.195.50.201 to 43.184.140.255 for 56 seconds Ratio: 37
+Server 13 has processed request
+Server 13 is processing request from 240.16.212.199 to 157.57.183.200 for 10 seconds Ratio: 37
+Server 16 has processed request
+Server 16 is processing request from 33.96.57.55 to 9.15.240.169 for 58 seconds Ratio: 37
+Server 13 has processed request
+Server 13 is processing request from 104.124.253.223 to 181.54.89.184 for 86 seconds Ratio: 37
+Server 18 has processed request
+Server 18 is processing request from 170.246.127.231 to 237.231.6.59 for 12 seconds Ratio: 37
+Server 17 has processed request
+Server 2 has processed request
+Server 17 is processing request from 215.97.177.157 to 197.16.89.212 for 32 seconds Ratio: 37
+Server 2 is processing request from 9.247.25.112 to 50.52.227.184 for 223 seconds Ratio: 36
+Server 4 has processed request
+Server 4 is processing request from 44.72.205.153 to 204.164.140.172 for 151 seconds Ratio: 36
+Server 18 has processed request
+Server 0 has processed request
+Server 18 is processing request from 17.26.251.143 to 215.203.221.138 for 83 seconds Ratio: 36
+Server 0 is processing request from 91.136.71.109 to 7.81.61.219 for 242 seconds Ratio: 36
+Server 11 has processed request
+Server 11 is processing request from 94.244.144.240 to 121.199.187.32 for 221 seconds Ratio: 36
+Server 7 has processed request
+Server 7 is processing request from 249.142.100.113 to 168.29.109.241 for 130 seconds Ratio: 36
+Server 1 has processed request
+Server 1 is processing request from 199.54.247.167 to 195.97.169.69 for 50 seconds Ratio: 36
+Server 12 has processed request
+Server 12 is processing request from 250.130.5.191 to 93.203.233.48 for 166 seconds Ratio: 36
+Server 17 has processed request
+Server 9 has processed request
+Server 17 is processing request from 46.208.208.240 to 18.199.3.108 for 196 seconds Ratio: 36
+Server 9 is processing request from 140.25.142.98 to 243.176.117.192 for 196 seconds Ratio: 36
+Server 16 has processed request
+Server 16 is processing request from 172.191.243.34 to 224.82.110.106 for 111 seconds Ratio: 36
+Server 6 has processed request
+Server 6 is processing request from 45.36.243.68 to 236.198.141.196 for 28 seconds Ratio: 36
+Server 3 has processed request
+Server 3 is processing request from 176.241.1.192 to 88.232.201.101 for 236 seconds Ratio: 36
+Server 1 has processed request
+Server 1 is processing request from 150.75.51.118 to 37.255.115.199 for 199 seconds Ratio: 36
+Server 13 has processed request
+Server 13 is processing request from 97.184.84.1 to 201.3.26.18 for 46 seconds Ratio: 36
+Server 6 has processed request
+Server 6 is processing request from 104.203.135.85 to 141.40.136.159 for 227 seconds Ratio: 36
+Server 8 has processed request
+Server 8 is processing request from 236.61.12.119 to 51.71.69.182 for 6 seconds Ratio: 36
+Server 8 has processed request
+Server 8 is processing request from 135.226.69.158 to 145.155.8.62 for 235 seconds Ratio: 36
+Server 18 has processed request
+Server 18 is processing request from 70.153.79.92 to 188.98.208.255 for 163 seconds Ratio: 36
+Server 15 has processed request
+Server 15 is processing request from 6.144.183.177 to 180.65.205.194 for 111 seconds Ratio: 36
+Server 13 has processed request
+Server 13 is processing request from 167.91.89.175 to 92.244.161.48 for 6 seconds Ratio: 35
+Server 13 has processed request
+Server 13 is processing request from 163.164.143.111 to 167.3.57.187 for 173 seconds Ratio: 35
+Server 5 has processed request
+Server 5 is processing request from 22.54.42.70 to 206.221.196.42 for 198 seconds Ratio: 35
+Server 7 has processed request
+Server 7 is processing request from 173.241.133.173 to 136.166.252.148 for 16 seconds Ratio: 35
+Server 19 has processed request
+Server 19 is processing request from 10.154.158.111 to 86.5.168.176 for 99 seconds Ratio: 35
+Server 14 has processed request
+Server 16 has processed request
+Server 14 is processing request from 56.150.149.127 to 197.152.126.41 for 11 seconds Ratio: 35
+Server 16 is processing request from 43.161.114.7 to 217.246.88.3 for 53 seconds Ratio: 35
+Server 10 has processed request
+Server 4 has processed request
+Server 10 is processing request from 126.37.175.154 to 191.147.224.195 for 64 seconds Ratio: 35
+Server 4 is processing request from 251.144.77.22 to 179.12.144.130 for 151 seconds Ratio: 35
+Server 7 has processed request
+Server 7 is processing request from 138.237.239.35 to 56.137.61.126 for 186 seconds Ratio: 35
+Server 14 has processed request
+Server 14 is processing request from 200.119.209.219 to 80.196.225.40 for 190 seconds Ratio: 35
+Server 12 has processed request
+Server 12 is processing request from 85.140.131.134 to 225.254.196.82 for 44 seconds Ratio: 35
+Server 16 has processed request
+Server 16 is processing request from 149.72.107.38 to 139.246.132.143 for 8 seconds Ratio: 35
+Server 16 has processed request
+Server 16 is processing request from 122.214.115.127 to 8.139.56.7 for 206 seconds Ratio: 35
+Server 10 has processed request
+Server 10 is processing request from 121.210.128.220 to 158.253.38.33 for 46 seconds Ratio: 35
+Server 2 has processed request
+Server 15 has processed request
+Server 2 is processing request from 85.179.20.180 to 178.216.181.254 for 224 seconds Ratio: 35
+Server 15 is processing request from 102.236.253.183 to 252.26.90.253 for 129 seconds Ratio: 35
+Server 17 has processed request
+Server 9 has processed request
+Server 11 has processed request
+Server 17 is processing request from 183.199.88.252 to 37.70.104.19 for 208 seconds Ratio: 35
+Server 9 is processing request from 43.119.49.142 to 17.72.204.69 for 36 seconds Ratio: 35
+Server 11 is processing request from 237.231.243.147 to 212.239.226.151 for 94 seconds Ratio: 35
+Server 12 has processed request
+Server 12 is processing request from 84.39.12.157 to 104.101.185.171 for 220 seconds Ratio: 34
+Server 19 has processed request
+Server 19 is processing request from 234.133.248.253 to 227.98.14.29 for 166 seconds Ratio: 34
+Server 0 has processed request
+Server 0 is processing request from 136.207.171.179 to 108.146.8.55 for 207 seconds Ratio: 34
+Server 18 has processed request
+Server 18 is processing request from 22.67.62.227 to 47.213.250.7 for 191 seconds Ratio: 34
+Server 10 has processed request
+Server 10 is processing request from 34.9.106.70 to 41.57.123.228 for 3 seconds Ratio: 34
+Server 9 has processed request
+Server 10 has processed request
+Server 9 is processing request from 179.205.168.76 to 138.100.50.185 for 88 seconds Ratio: 34
+Server 10 is processing request from 216.20.147.157 to 67.110.65.65 for 250 seconds Ratio: 34
+Server 1 has processed request
+Server 1 is processing request from 223.169.14.99 to 82.250.247.223 for 185 seconds Ratio: 34
+Server 3 has processed request
+Server 3 is processing request from 149.28.32.67 to 136.252.56.150 for 208 seconds Ratio: 34
+Server 13 has processed request
+Server 13 is processing request from 180.248.176.171 to 211.172.144.253 for 26 seconds Ratio: 34
+Server 6 has processed request
+Server 6 is processing request from 164.178.168.185 to 23.150.60.138 for 133 seconds Ratio: 34
+Server 4 has processed request
+Server 4 is processing request from 232.253.7.4 to 247.102.103.66 for 221 seconds Ratio: 34
+Server 8 has processed request
+Server 8 is processing request from 78.61.248.213 to 95.162.182.144 for 14 seconds Ratio: 34
+Server 13 has processed request
+Server 11 has processed request
+Server 13 is processing request from 88.76.8.199 to 245.0.94.80 for 236 seconds Ratio: 34
+Server 11 is processing request from 21.135.183.144 to 62.175.181.210 for 172 seconds Ratio: 34
+Server 5 has processed request
+Server 5 is processing request from 53.253.104.77 to 236.130.187.250 for 42 seconds Ratio: 34
+Server 8 has processed request
+Server 8 is processing request from 176.11.43.0 to 19.137.16.145 for 4 seconds Ratio: 34
+Server 8 has processed request
+Server 8 is processing request from 176.19.38.113 to 122.227.111.9 for 75 seconds Ratio: 34
+Server 7 has processed request
+Server 7 is processing request from 201.74.193.248 to 102.103.173.231 for 46 seconds Ratio: 34
+Server 14 has processed request
+Server 14 is processing request from 209.20.135.153 to 158.214.50.29 for 158 seconds Ratio: 34
+Server 9 has processed request
+Server 15 has processed request
+Server 9 is processing request from 6.0.184.82 to 40.108.53.129 for 112 seconds Ratio: 33
+Server 15 is processing request from 241.51.163.4 to 123.33.210.65 for 9 seconds Ratio: 33
+Server 15 has processed request
+Server 15 is processing request from 130.102.122.179 to 47.38.12.85 for 38 seconds Ratio: 33
+Server 5 has processed request
+Server 5 is processing request from 128.225.59.66 to 84.228.199.86 for 199 seconds Ratio: 33
+Server 7 has processed request
+Server 7 is processing request from 130.58.58.6 to 135.44.239.87 for 122 seconds Ratio: 33
+Server 15 has processed request
+Server 15 is processing request from 129.209.164.218 to 233.24.51.8 for 151 seconds Ratio: 33
+Server 19 has processed request
+Server 19 is processing request from 168.139.107.157 to 147.254.200.132 for 112 seconds Ratio: 33
+Server 8 has processed request
+Server 8 is processing request from 100.191.7.201 to 151.245.111.198 for 42 seconds Ratio: 33
+Server 16 has processed request
+Server 16 is processing request from 127.2.250.93 to 190.83.203.188 for 59 seconds Ratio: 33
+Server 6 has processed request
+Server 6 is processing request from 73.1.164.155 to 133.249.127.26 for 197 seconds Ratio: 33
+Server 17 has processed request
+Server 17 is processing request from 243.47.41.216 to 218.143.128.120 for 198 seconds Ratio: 33
+Server 18 has processed request
+Server 18 is processing request from 210.221.95.129 to 78.11.6.231 for 107 seconds Ratio: 33
+Server 2 has processed request
+Server 2 is processing request from 61.167.178.127 to 82.198.115.107 for 116 seconds Ratio: 33
+Server 12 has processed request
+Server 0 has processed request
+Server 1 has processed request
+Server 12 is processing request from 220.205.68.109 to 77.204.247.105 for 7 seconds Ratio: 33
+Server 0 is processing request from 200.112.2.178 to 115.114.182.69 for 183 seconds Ratio: 33
+Server 1 is processing request from 164.137.48.76 to 63.45.74.107 for 154 seconds Ratio: 33
+Server 8 has processed request
+Server 8 is processing request from 124.86.139.158 to 31.27.123.152 for 212 seconds Ratio: 33
+Server 12 has processed request
+Server 12 is processing request from 136.99.212.141 to 163.170.27.116 for 250 seconds Ratio: 33
+Server 9 has processed request
+Server 9 is processing request from 6.146.39.84 to 238.140.117.154 for 29 seconds Ratio: 33
+Server 16 has processed request
+Server 16 is processing request from 234.157.139.98 to 243.226.243.80 for 177 seconds Ratio: 33
+Server 3 has processed request
+Server 9 has processed request
+Server 3 is processing request from 53.238.32.56 to 1.161.223.59 for 95 seconds Ratio: 32
+Server 9 is processing request from 44.44.158.48 to 44.158.55.79 for 230 seconds Ratio: 32
+Server 11 has processed request
+Server 11 is processing request from 55.26.156.38 to 123.100.82.226 for 121 seconds Ratio: 32
+Server 14 has processed request
+Server 14 is processing request from 161.57.230.112 to 58.199.194.66 for 98 seconds Ratio: 32
+Server 7 has processed request
+Server 7 is processing request from 81.51.15.152 to 4.120.20.92 for 211 seconds Ratio: 32
+Server 10 has processed request
+Server 10 is processing request from 219.55.247.7 to 36.26.212.73 for 3 seconds Ratio: 32
+Server 10 has processed request
+Server 10 is processing request from 146.209.239.235 to 135.24.222.242 for 94 seconds Ratio: 32
+Server 19 has processed request
+Server 19 is processing request from 24.186.205.231 to 119.142.208.33 for 240 seconds Ratio: 32
+Server 4 has processed request
+Server 4 is processing request from 163.185.239.179 to 70.180.140.49 for 140 seconds Ratio: 32
+Server 18 has processed request
+Server 18 is processing request from 37.175.33.44 to 125.242.250.194 for 207 seconds Ratio: 32
+Server 15 has processed request
+Server 15 is processing request from 112.66.164.52 to 54.98.26.175 for 53 seconds Ratio: 32
+Server 13 has processed request
+Server 13 is processing request from 134.195.72.56 to 250.209.227.155 for 178 seconds Ratio: 32
+Server 2 has processed request
+Server 2 is processing request from 11.4.185.222 to 142.212.46.201 for 167 seconds Ratio: 32
+Server 5 has processed request
+Server 5 is processing request from 230.38.40.194 to 249.241.115.232 for 31 seconds Ratio: 32
+Server 3 has processed request
+Server 3 is processing request from 12.145.22.36 to 154.208.59.5 for 165 seconds Ratio: 32
+Server 14 has processed request
+Server 5 has processed request
+Server 14 is processing request from 191.169.118.20 to 147.212.163.121 for 49 seconds Ratio: 32
+Server 15 has processed request
+Server 5 is processing request from 104.225.102.82 to 108.248.16.227 for 116 seconds Ratio: 32
+Server 15 is processing request from 171.65.193.71 to 172.244.86.121 for 5 seconds Ratio: 32
+Server 1 has processed request
+Server 1 is processing request from 91.46.226.44 to 75.156.174.99 for 171 seconds Ratio: 32
+Server 15 has processed request
+Server 15 is processing request from 233.127.154.205 to 117.238.113.115 for 72 seconds Ratio: 32
+Server 10 has processed request
+Server 10 is processing request from 248.54.255.8 to 8.157.116.72 for 149 seconds Ratio: 31
+Server 11 has processed request
+Server 11 is processing request from 95.217.110.177 to 35.34.116.232 for 17 seconds Ratio: 31
+Server 6 has processed request
+Server 6 is processing request from 122.184.251.2 to 2.202.178.97 for 34 seconds Ratio: 31
+Server 11 has processed request
+Server 11 is processing request from 19.179.99.219 to 241.215.103.235 for 20 seconds Ratio: 31
+Server 17 has processed request
+Server 17 is processing request from 63.101.28.217 to 82.212.77.210 for 22 seconds Ratio: 31
+Server 0 has processed request
+Server 0 is processing request from 40.58.115.39 to 107.150.163.198 for 141 seconds Ratio: 31
+Server 16 has processed request
+Server 16 is processing request from 66.219.97.169 to 219.175.19.238 for 184 seconds Ratio: 31
+Server 14 has processed request
+Server 11 has processed request
+Server 14 is processing request from 58.241.59.183 to 123.220.87.218 for 85 seconds Ratio: 31
+Server 11 is processing request from 140.226.16.161 to 223.17.1.148 for 237 seconds Ratio: 31
+Server 17 has processed request
+Server 17 is processing request from 52.165.128.231 to 86.74.25.171 for 100 seconds Ratio: 31
+Server 6 has processed request
+Server 4 has processed request
+Server 6 is processing request from 134.176.100.36 to 151.241.130.21 for 199 seconds Ratio: 31
+Server 4 is processing request from 99.159.40.109 to 77.238.142.158 for 32 seconds Ratio: 31
+Server 8 has processed request
+Server 8 is processing request from 123.141.206.199 to 5.233.207.207 for 26 seconds Ratio: 31
+Server 15 has processed request
+Server 15 is processing request from 180.60.95.61 to 24.240.111.128 for 145 seconds Ratio: 31
+Server 8 has processed request
+Server 8 is processing request from 106.54.57.109 to 86.183.239.232 for 112 seconds Ratio: 31
+Server 4 has processed request
+Server 4 is processing request from 0.176.71.168 to 139.173.31.219 for 244 seconds Ratio: 31
+Server 12 has processed request
+Server 12 is processing request from 191.48.113.73 to 226.149.61.164 for 194 seconds Ratio: 31
+Server 5 has processed request
+Server 5 is processing request from 147.147.112.153 to 156.196.64.242 for 243 seconds Ratio: 31
+Server 7 has processed request
+Server 7 is processing request from 225.189.4.204 to 38.145.192.195 for 220 seconds Ratio: 31
+Server 9 has processed request
+Server 9 is processing request from 51.41.25.187 to 92.81.91.237 for 157 seconds Ratio: 31
+Server 2 has processed request
+Server 2 is processing request from 182.177.253.226 to 65.120.135.251 for 6 seconds Ratio: 30
+Server 13 has processed request
+Server 2 has processed request
+Server 13 is processing request from 62.105.13.205 to 94.240.198.54 for 97 seconds Ratio: 30
+Server 14 has processed request
+Server 2 is processing request from 163.132.248.40 to 192.57.60.251 for 194 seconds Ratio: 30
+Server 14 is processing request from 151.24.199.179 to 227.143.229.157 for 153 seconds Ratio: 30
+Server 3 has processed request
+Server 18 has processed request
+Server 3 is processing request from 144.211.44.159 to 204.129.73.75 for 136 seconds Ratio: 30
+Server 18 is processing request from 86.41.21.130 to 170.99.226.153 for 85 seconds Ratio: 30
+Server 17 has processed request
+Server 17 is processing request from 216.227.23.107 to 22.234.224.65 for 28 seconds Ratio: 30
+Server 19 has processed request
+Server 10 has processed request
+Server 19 is processing request from 153.190.59.24 to 142.110.108.6 for 183 seconds Ratio: 30
+Server 10 is processing request from 164.233.110.109 to 216.66.47.214 for 82 seconds Ratio: 30
+Server 0 has processed request
+Server 0 is processing request from 121.78.120.145 to 48.158.169.248 for 237 seconds Ratio: 30
+Server 1 has processed request
+Server 1 is processing request from 138.167.150.47 to 53.18.245.112 for 98 seconds Ratio: 30
+Server 17 has processed request
+Server 17 is processing request from 186.200.110.169 to 109.41.47.111 for 196 seconds Ratio: 30
+Server 8 has processed request
+Server 8 is processing request from 46.30.181.19 to 240.13.180.105 for 32 seconds Ratio: 30
+Server 15 has processed request
+Server 15 is processing request from 125.255.143.31 to 237.21.40.162 for 241 seconds Ratio: 30
+Server 13 has processed request
+Server 16 has processed request
+Server 13 is processing request from 90.140.191.233 to 83.183.207.78 for 60 seconds Ratio: 30
+Server 16 is processing request from 59.233.139.174 to 83.81.243.127 for 174 seconds Ratio: 30
+Server 8 has processed request
+Server 8 is processing request from 243.154.191.1 to 69.113.83.214 for 45 seconds Ratio: 30
+Server 18 has processed request
+Server 18 is processing request from 4.145.247.145 to 68.154.236.171 for 95 seconds Ratio: 30
+Server 10 has processed request
+Server 10 is processing request from 5.219.110.96 to 162.232.178.253 for 241 seconds Ratio: 30
+Server 6 has processed request
+Server 6 is processing request from 109.104.243.54 to 75.133.95.95 for 1 seconds Ratio: 30
+Server 6 has processed request
+Server 6 is processing request from 168.37.153.89 to 26.46.13.154 for 194 seconds Ratio: 29
+Server 1 has processed request
+Server 1 is processing request from 106.185.240.204 to 78.190.158.13 for 240 seconds Ratio: 29
+Server 8 has processed request
+Server 9 has processed request
+Server 8 is processing request from 171.179.51.32 to 248.187.221.202 for 56 seconds Ratio: 29
+Server 9 is processing request from 139.234.73.63 to 124.234.205.125 for 109 seconds Ratio: 29
+Server 3 has processed request
+Server 11 has processed request
+Server 14 has processed request
+Server 3 is processing request from 32.79.32.4 to 213.80.89.224 for 187 seconds Ratio: 29
+Server 11 is processing request from 157.139.186.78 to 228.180.168.196 for 18 seconds Ratio: 29
+Server 14 is processing request from 51.249.104.218 to 99.228.228.9 for 83 seconds Ratio: 29
+Server 13 has processed request
+Server 13 is processing request from 94.130.90.74 to 163.55.68.244 for 222 seconds Ratio: 29
+Server 12 has processed request
+Server 12 is processing request from 195.127.165.189 to 15.38.190.40 for 137 seconds Ratio: 29
+Server 11 has processed request
+Server 11 is processing request from 74.198.237.35 to 195.92.95.63 for 2 seconds Ratio: 29
+Server 11 has processed request
+Server 11 is processing request from 51.187.162.254 to 21.243.40.74 for 107 seconds Ratio: 29
+Server 2 has processed request
+Server 2 is processing request from 177.177.189.101 to 180.71.137.21 for 66 seconds Ratio: 29
+Server 18 has processed request
+Server 18 is processing request from 56.114.187.83 to 156.165.181.238 for 103 seconds Ratio: 29
+Server 8 has processed request
+Server 8 is processing request from 100.140.234.75 to 48.194.216.108 for 63 seconds Ratio: 29
+Server 4 has processed request
+Server 7 has processed request
+Server 4 is processing request from 228.185.165.48 to 253.37.130.153 for 32 seconds Ratio: 29
+Server 7 is processing request from 144.195.248.184 to 215.61.230.58 for 24 seconds Ratio: 29
+Server 19 has processed request
+Server 19 is processing request from 120.67.148.195 to 212.249.154.76 for 60 seconds Ratio: 29
+Server 5 has processed request
+Server 5 is processing request from 198.242.217.0 to 199.62.21.144 for 107 seconds Ratio: 29
+Server 7 has processed request
+Server 7 is processing request from 208.250.191.168 to 220.160.155.158 for 100 seconds Ratio: 29
+Server 4 has processed request
+Server 14 has processed request
+Server 4 is processing request from 29.0.16.212 to 196.206.251.78 for 186 seconds Ratio: 29
+Server 14 is processing request from 39.135.133.241 to 213.86.112.217 for 222 seconds Ratio: 28
+Server 17 has processed request
+Server 17 is processing request from 60.172.189.11 to 177.123.250.72 for 107 seconds Ratio: 28
+Server 9 has processed request
+Server 9 is processing request from 211.164.173.184 to 80.51.99.95 for 26 seconds Ratio: 28
+Server 2 has processed request
+Server 2 is processing request from 13.60.192.53 to 132.53.243.96 for 58 seconds Ratio: 28
+Server 8 has processed request
+Server 8 is processing request from 39.180.136.97 to 75.252.222.169 for 168 seconds Ratio: 28
+Server 19 has processed request
+Server 19 is processing request from 177.52.116.6 to 16.117.226.137 for 179 seconds Ratio: 28
+Server 16 has processed request
+Server 16 is processing request from 139.37.74.235 to 248.231.176.118 for 118 seconds Ratio: 28
+Server 0 has processed request
+Server 0 is processing request from 71.244.112.39 to 36.125.246.24 for 42 seconds Ratio: 28
+Server 9 has processed request
+Server 9 is processing request from 1.59.125.197 to 137.15.111.184 for 239 seconds Ratio: 28
+Server 11 has processed request
+Server 11 is processing request from 123.62.136.181 to 239.139.116.43 for 125 seconds Ratio: 28
+Server 18 has processed request
+Server 18 is processing request from 157.246.169.153 to 0.83.90.211 for 180 seconds Ratio: 28
+Server 12 has processed request
+Server 12 is processing request from 31.152.15.127 to 95.46.19.198 for 225 seconds Ratio: 28
+Server 2 has processed request
+Server 0 has processed request
+Server 2 is processing request from 139.157.28.184 to 160.177.152.55 for 117 seconds Ratio: 28
+Server 0 is processing request from 28.22.80.93 to 156.185.11.97 for 163 seconds Ratio: 28
+Server 6 has processed request
+Server 6 is processing request from 206.211.82.86 to 229.5.65.127 for 132 seconds Ratio: 28
+Server 7 has processed request
+Server 7 is processing request from 10.126.160.67 to 205.127.85.233 for 130 seconds Ratio: 28
+Server 15 has processed request
+Server 15 is processing request from 94.92.24.187 to 166.190.63.34 for 214 seconds Ratio: 28
+Server 5 has processed request
+Server 5 is processing request from 39.202.208.34 to 111.129.53.95 for 184 seconds Ratio: 28
+Server 3 has processed request
+Server 3 is processing request from 173.1.36.200 to 233.177.183.163 for 221 seconds Ratio: 28
+Server 10 has processed request
+Server 10 is processing request from 105.67.160.107 to 151.150.243.128 for 142 seconds Ratio: 28
+Server 17 has processed request
+Server 17 is processing request from 49.84.247.135 to 172.234.65.147 for 103 seconds Ratio: 27
+Server 13 has processed request
+Server 1 has processed request
+Server 13 is processing request from 32.84.0.230 to 183.240.172.0 for 28 seconds Ratio: 27
+Server 1 is processing request from 253.196.16.6 to 13.58.239.138 for 159 seconds Ratio: 27
+Server 16 has processed request
+Server 16 is processing request from 120.4.22.149 to 34.67.81.221 for 15 seconds Ratio: 27
+Server 16 has processed request
+Server 16 is processing request from 96.20.239.117 to 170.216.105.226 for 38 seconds Ratio: 27
+Server 11 has processed request
+Server 11 is processing request from 50.145.102.89 to 125.144.149.231 for 200 seconds Ratio: 27
+Server 13 has processed request
+Server 13 is processing request from 216.207.24.215 to 93.3.133.99 for 79 seconds Ratio: 27
+Server 4 has processed request
+Server 4 is processing request from 88.215.75.148 to 207.215.5.246 for 213 seconds Ratio: 27
+Server 8 has processed request
+Server 8 is processing request from 166.254.140.27 to 3.23.158.94 for 20 seconds Ratio: 27
+Server 2 has processed request
+Server 2 is processing request from 12.172.67.139 to 130.254.104.206 for 14 seconds Ratio: 27
+Server 16 has processed request
+Server 16 is processing request from 44.87.211.216 to 81.231.164.227 for 206 seconds Ratio: 27
+Server 19 has processed request
+Server 19 is processing request from 82.29.107.237 to 25.95.204.180 for 27 seconds Ratio: 27
+Server 2 has processed request
+Server 2 is processing request from 213.162.32.133 to 127.130.199.80 for 202 seconds Ratio: 27
+Server 8 has processed request
+Server 8 is processing request from 250.167.88.166 to 207.64.85.231 for 164 seconds Ratio: 27
+Server 6 has processed request
+Server 17 has processed request
+Server 6 is processing request from 102.53.181.142 to 158.94.86.89 for 106 seconds Ratio: 27
+Server 17 is processing request from 66.78.223.170 to 18.129.95.83 for 216 seconds Ratio: 27
+Server 7 has processed request
+Server 14 has processed request
+Server 7 is processing request from 237.51.210.133 to 8.251.118.53 for 86 seconds Ratio: 27
+Server 14 is processing request from 192.164.131.9 to 20.134.103.5 for 15 seconds Ratio: 27
+Server 19 has processed request
+Server 14 has processed request
+Server 19 is processing request from 79.186.100.100 to 84.195.251.56 for 8 seconds Ratio: 27
+Server 14 is processing request from 162.241.255.3 to 139.53.73.171 for 184 seconds Ratio: 27
+Server 18 has processed request
+Server 19 has processed request
+Server 18 is processing request from 189.167.143.204 to 125.162.189.57 for 186 seconds Ratio: 26
+Server 19 is processing request from 183.228.241.50 to 83.137.51.228 for 53 seconds Ratio: 26
+Server 0 has processed request
+Server 0 is processing request from 188.255.164.181 to 238.138.206.12 for 176 seconds Ratio: 26
+Server 13 has processed request
+Server 13 is processing request from 105.164.176.102 to 195.14.209.55 for 171 seconds Ratio: 26
+Server 10 has processed request
+Server 10 is processing request from 123.189.19.132 to 37.160.60.182 for 101 seconds Ratio: 26
+Server 5 has processed request
+Server 5 is processing request from 129.37.176.44 to 141.159.20.148 for 78 seconds Ratio: 26
+Server 9 has processed request
+Server 9 is processing request from 108.140.194.170 to 137.168.173.128 for 91 seconds Ratio: 26
+Server 12 has processed request
+Server 12 is processing request from 212.54.214.128 to 81.119.220.129 for 41 seconds Ratio: 26
+Server 19 has processed request
+Server 19 is processing request from 195.129.178.35 to 16.105.205.210 for 212 seconds Ratio: 26
+Server 1 has processed request
+Server 1 is processing request from 14.167.66.207 to 181.166.220.137 for 171 seconds Ratio: 26
+Server 7 has processed request
+Server 15 has processed request
+Server 7 is processing request from 40.169.243.136 to 47.15.84.64 for 138 seconds Ratio: 26
+Server 15 is processing request from 201.77.242.205 to 25.125.201.193 for 18 seconds Ratio: 26
+Server 6 has processed request
+Server 6 is processing request from 200.57.231.7 to 8.56.122.35 for 233 seconds Ratio: 26
+Server 3 has processed request
+Server 3 is processing request from 210.72.231.75 to 233.33.87.22 for 141 seconds Ratio: 26
+Server 15 has processed request
+Server 15 is processing request from 166.201.40.208 to 103.57.192.34 for 235 seconds Ratio: 26
+Server 12 has processed request
+Server 12 is processing request from 122.184.186.108 to 14.185.129.127 for 119 seconds Ratio: 26
+Server 10 has processed request
+Server 10 is processing request from 235.212.49.155 to 61.59.203.179 for 246 seconds Ratio: 26
+Server 5 has processed request
+Server 5 is processing request from 67.91.173.253 to 54.122.35.79 for 244 seconds Ratio: 26
+Server 11 has processed request
+Server 11 is processing request from 28.158.223.193 to 30.59.67.217 for 170 seconds Ratio: 26
+Server 9 has processed request
+Server 9 is processing request from 72.231.54.174 to 23.246.48.224 for 224 seconds Ratio: 26
+Server 8 has processed request
+Server 8 is processing request from 246.167.41.67 to 136.194.90.204 for 129 seconds Ratio: 25
+Server 4 has processed request
+Server 4 is processing request from 58.36.106.72 to 34.111.194.160 for 231 seconds Ratio: 25
+Server 16 has processed request
+Server 16 is processing request from 56.210.95.39 to 206.39.47.33 for 129 seconds Ratio: 25
+Server 2 has processed request
+Server 2 is processing request from 228.254.233.136 to 65.66.16.124 for 158 seconds Ratio: 25
+Server 13 has processed request
+Server 13 is processing request from 140.34.143.205 to 247.1.152.170 for 141 seconds Ratio: 25
+Server 14 has processed request
+Server 0 has processed request
+Server 14 is processing request from 102.135.140.171 to 136.8.185.38 for 113 seconds Ratio: 25
+Server 0 is processing request from 122.95.240.170 to 214.249.221.9 for 140 seconds Ratio: 25
+Server 18 has processed request
+Server 18 is processing request from 251.171.1.183 to 213.45.183.46 for 150 seconds Ratio: 25
+Server 17 has processed request
+Server 17 is processing request from 152.42.167.179 to 62.1.241.187 for 116 seconds Ratio: 25
+Server 7 has processed request
+Server 7 is processing request from 217.118.123.206 to 254.49.27.170 for 80 seconds Ratio: 25
+Server 12 has processed request
+Server 12 is processing request from 201.253.52.149 to 66.126.99.14 for 69 seconds Ratio: 25
+Server 3 has processed request
+Server 3 is processing request from 117.155.246.225 to 227.225.184.59 for 37 seconds Ratio: 25
+Server 1 has processed request
+Server 1 is processing request from 18.137.22.253 to 71.83.187.124 for 76 seconds Ratio: 25
+Server 3 has processed request
+Server 3 is processing request from 229.4.77.99 to 157.90.227.13 for 193 seconds Ratio: 25
+Server 8 has processed request
+Server 8 is processing request from 138.24.101.91 to 154.22.240.88 for 29 seconds Ratio: 25
+Server 19 has processed request
+Server 19 is processing request from 199.57.24.69 to 200.180.233.22 for 69 seconds Ratio: 25
+Server 12 has processed request
+Server 12 is processing request from 69.40.130.31 to 102.63.0.128 for 27 seconds Ratio: 25
+Server 7 has processed request
+Server 7 is processing request from 122.94.22.20 to 179.171.164.204 for 114 seconds Ratio: 25
+Server 14 has processed request
+Server 14 is processing request from 12.66.160.204 to 149.92.109.133 for 59 seconds Ratio: 25
+Server 8 has processed request
+Server 8 is processing request from 173.186.90.122 to 129.159.43.27 for 47 seconds Ratio: 25
+Server 11 has processed request
+Server 11 is processing request from 172.238.134.227 to 156.198.57.17 for 116 seconds Ratio: 24
+Server 16 has processed request
+Server 16 is processing request from 178.66.166.198 to 36.170.176.205 for 111 seconds Ratio: 24
+Server 12 has processed request
+Server 1 has processed request
+Server 12 is processing request from 157.230.49.132 to 254.235.24.29 for 137 seconds Ratio: 24
+Server 17 has processed request
+Server 1 is processing request from 161.210.106.249 to 217.64.180.207 for 49 seconds Ratio: 24
+Server 17 is processing request from 173.207.0.15 to 252.219.41.22 for 142 seconds Ratio: 24
+Server 6 has processed request
+Server 6 is processing request from 9.185.180.193 to 182.232.120.85 for 192 seconds Ratio: 24
+Server 13 has processed request
+Server 15 has processed request
+Server 0 has processed request
+Server 13 is processing request from 48.1.145.61 to 90.223.217.129 for 169 seconds Ratio: 24
+Server 15 is processing request from 144.14.112.83 to 126.99.121.107 for 236 seconds Ratio: 24
+Server 0 is processing request from 165.14.100.75 to 246.36.252.163 for 141 seconds Ratio: 24
+Server 2 has processed request
+Server 2 is processing request from 91.171.43.65 to 104.101.21.221 for 124 seconds Ratio: 24
+Server 19 has processed request
+Server 19 is processing request from 158.165.132.198 to 127.66.184.115 for 189 seconds Ratio: 24
+Server 18 has processed request
+Server 18 is processing request from 239.109.184.224 to 20.4.3.115 for 28 seconds Ratio: 24
+Server 8 has processed request
+Server 8 is processing request from 15.145.148.46 to 244.218.91.165 for 98 seconds Ratio: 24
+Server 14 has processed request
+Server 14 is processing request from 169.246.64.57 to 39.106.33.89 for 72 seconds Ratio: 24
+Server 9 has processed request
+Server 1 has processed request
+Server 9 is processing request from 252.136.31.55 to 221.23.253.215 for 70 seconds Ratio: 24
+Server 1 is processing request from 61.244.19.127 to 105.30.221.54 for 249 seconds Ratio: 24
+Server 10 has processed request
+Server 10 is processing request from 145.115.99.187 to 92.238.30.218 for 52 seconds Ratio: 24
+Server 5 has processed request
+Server 5 is processing request from 47.194.35.141 to 42.204.254.204 for 11 seconds Ratio: 24
+Server 18 has processed request
+Server 18 is processing request from 156.123.83.218 to 237.64.6.142 for 208 seconds Ratio: 24
+Server 5 has processed request
+Server 5 is processing request from 57.199.57.87 to 193.108.150.44 for 198 seconds Ratio: 24
+Server 4 has processed request
+Server 4 is processing request from 63.232.174.77 to 189.99.203.250 for 231 seconds Ratio: 23
+Server 7 has processed request
+Server 7 is processing request from 121.159.97.138 to 163.105.26.231 for 204 seconds Ratio: 23
+Server 16 has processed request
+Server 10 has processed request
+Server 16 is processing request from 124.111.93.10 to 86.208.3.30 for 94 seconds Ratio: 23
+Server 10 is processing request from 156.21.3.209 to 62.248.153.233 for 184 seconds Ratio: 23
+Server 11 has processed request
+Server 11 is processing request from 92.104.10.156 to 54.146.196.70 for 205 seconds Ratio: 23
+Server 14 has processed request
+Server 14 is processing request from 67.68.55.88 to 151.139.58.120 for 20 seconds Ratio: 23
+Server 9 has processed request
+Server 9 is processing request from 148.25.108.176 to 56.40.221.98 for 247 seconds Ratio: 23
+Server 8 has processed request
+Server 8 is processing request from 229.69.206.61 to 78.161.213.219 for 62 seconds Ratio: 23
+Server 12 has processed request
+Server 14 has processed request
+Server 12 is processing request from 203.146.227.199 to 211.90.86.197 for 124 seconds Ratio: 23
+Server 14 is processing request from 165.183.24.220 to 212.85.133.33 for 17 seconds Ratio: 23
+Server 17 has processed request
+Server 17 is processing request from 183.92.88.215 to 250.84.194.47 for 157 seconds Ratio: 23
+Server 3 has processed request
+Server 2 has processed request
+Server 3 is processing request from 202.204.229.144 to 90.139.185.187 for 172 seconds Ratio: 23
+Server 2 is processing request from 73.224.235.21 to 133.60.138.116 for 154 seconds Ratio: 23
+Server 14 has processed request
+Server 0 has processed request
+Server 14 is processing request from 199.53.5.202 to 229.4.151.18 for 234 seconds Ratio: 23
+Server 0 is processing request from 145.177.173.162 to 212.248.15.115 for 71 seconds Ratio: 23
+Server 13 has processed request
+Server 13 is processing request from 247.5.72.80 to 105.161.23.224 for 198 seconds Ratio: 23
+Server 8 has processed request
+Server 8 is processing request from 131.183.160.183 to 242.111.110.16 for 169 seconds Ratio: 23
+Server 16 has processed request
+Server 16 is processing request from 21.74.8.143 to 94.139.7.27 for 74 seconds Ratio: 23
+Server 6 has processed request
+Server 6 is processing request from 26.61.13.55 to 32.38.57.73 for 29 seconds Ratio: 23
+Server 19 has processed request
+Server 19 is processing request from 177.65.29.150 to 104.153.26.90 for 26 seconds Ratio: 23
+Server 0 has processed request
+Server 0 is processing request from 49.91.176.252 to 132.225.5.66 for 46 seconds Ratio: 22
+Server 6 has processed request
+Server 6 is processing request from 248.240.6.155 to 14.95.220.230 for 16 seconds Ratio: 22
+Server 6 has processed request
+Server 19 has processed request
+Server 6 is processing request from 92.95.111.79 to 225.65.201.64 for 88 seconds Ratio: 22
+Server 19 is processing request from 69.243.208.185 to 49.20.178.99 for 219 seconds Ratio: 22
+Server 15 has processed request
+Server 15 is processing request from 74.42.165.44 to 77.31.51.174 for 188 seconds Ratio: 22
+Server 12 has processed request
+Server 12 is processing request from 130.228.135.229 to 231.222.134.39 for 225 seconds Ratio: 22
+Server 5 has processed request
+Server 5 is processing request from 78.251.11.209 to 32.217.208.43 for 98 seconds Ratio: 22
+Server 18 has processed request
+Server 18 is processing request from 72.108.126.20 to 184.130.76.213 for 92 seconds Ratio: 22
+Server 16 has processed request
+Server 0 has processed request
+Server 16 is processing request from 126.158.47.208 to 58.97.220.238 for 94 seconds Ratio: 22
+Server 0 is processing request from 110.151.226.227 to 50.235.88.250 for 155 seconds Ratio: 22
+Server 10 has processed request
+Server 10 is processing request from 14.10.188.117 to 28.181.157.222 for 164 seconds Ratio: 22
+Server 7 has processed request
+Server 7 is processing request from 79.135.23.144 to 241.202.182.6 for 114 seconds Ratio: 22
+Server 1 has processed request
+Server 1 is processing request from 6.7.115.110 to 153.162.71.206 for 232 seconds Ratio: 22
+Server 17 has processed request
+Server 17 is processing request from 64.182.255.198 to 16.66.82.45 for 235 seconds Ratio: 22
+Server 2 has processed request
+Server 2 is processing request from 57.35.134.185 to 196.17.20.37 for 85 seconds Ratio: 22
+Server 11 has processed request
+Server 4 has processed request
+Server 11 is processing request from 251.75.220.149 to 45.0.137.45 for 248 seconds Ratio: 22
+Server 4 is processing request from 134.36.172.195 to 29.112.134.187 for 107 seconds Ratio: 22
+Server 3 has processed request
+Server 3 is processing request from 0.50.102.225 to 53.199.154.62 for 118 seconds Ratio: 22
+Server 6 has processed request
+Server 6 is processing request from 74.253.13.195 to 182.5.117.112 for 95 seconds Ratio: 22
+Server 18 has processed request
+Server 18 is processing request from 160.49.4.191 to 187.212.61.195 for 232 seconds Ratio: 22
+Server 5 has processed request
+Server 5 is processing request from 25.232.38.248 to 68.181.88.60 for 239 seconds Ratio: 21
+Server 8 has processed request
+Server 16 has processed request
+Server 8 is processing request from 147.126.49.153 to 86.98.75.97 for 21 seconds Ratio: 21
+Server 9 has processed request
+Server 16 is processing request from 60.157.255.241 to 117.127.240.56 for 195 seconds Ratio: 21
+Server 9 is processing request from 244.167.165.81 to 157.113.177.182 for 135 seconds Ratio: 21
+Server 13 has processed request
+Server 13 is processing request from 181.62.115.145 to 10.114.140.236 for 65 seconds Ratio: 21
+Server 8 has processed request
+Server 8 is processing request from 179.25.156.31 to 145.62.78.156 for 237 seconds Ratio: 21
+Server 2 has processed request
+Server 14 has processed request
+Server 2 is processing request from 188.103.175.230 to 124.253.184.228 for 223 seconds Ratio: 21
+Server 14 is processing request from 218.203.56.150 to 83.74.55.132 for 62 seconds Ratio: 21
+Server 7 has processed request
+Server 7 is processing request from 44.158.178.8 to 158.136.26.199 for 202 seconds Ratio: 21
+Server 4 has processed request
+Server 4 is processing request from 188.250.143.192 to 22.233.240.90 for 42 seconds Ratio: 21
+Server 0 has processed request
+Server 0 is processing request from 174.164.184.33 to 59.104.195.86 for 1 seconds Ratio: 21
+Server 0 has processed request
+Server 6 has processed request
+Server 0 is processing request from 241.153.155.130 to 152.200.3.234 for 229 seconds Ratio: 21
+Server 6 is processing request from 26.55.15.249 to 85.49.120.58 for 79 seconds Ratio: 21
+Server 15 has processed request
+Server 3 has processed request
+Server 15 is processing request from 26.101.239.69 to 196.41.131.25 for 135 seconds Ratio: 21
+Server 3 is processing request from 136.132.199.101 to 157.39.67.168 for 243 seconds Ratio: 21
+Server 13 has processed request
+Server 13 is processing request from 232.90.170.74 to 91.48.201.80 for 163 seconds Ratio: 21
+Server 14 has processed request
+Server 14 is processing request from 153.223.23.196 to 46.20.206.228 for 85 seconds Ratio: 21
+Server 10 has processed request
+Server 10 is processing request from 21.180.196.23 to 31.15.253.202 for 170 seconds Ratio: 21
+Server 4 has processed request
+Server 4 is processing request from 107.65.134.220 to 218.4.221.218 for 71 seconds Ratio: 21
+Server 19 has processed request
+Server 19 is processing request from 184.71.251.171 to 185.57.70.29 for 194 seconds Ratio: 21
+Server 12 has processed request
+Server 12 is processing request from 177.249.157.93 to 99.13.52.183 for 111 seconds Ratio: 20
+Server 9 has processed request
+Server 9 is processing request from 71.189.92.77 to 77.250.47.76 for 60 seconds Ratio: 20
+Server 6 has processed request
+Server 6 is processing request from 229.137.219.29 to 137.88.40.91 for 135 seconds Ratio: 20
+Server 1 has processed request
+Server 1 is processing request from 57.135.95.231 to 220.179.47.56 for 237 seconds Ratio: 20
+Server 4 has processed request
+Server 4 is processing request from 12.51.143.211 to 227.20.99.146 for 230 seconds Ratio: 20
+Server 14 has processed request
+Server 17 has processed request
+Server 14 is processing request from 29.50.148.152 to 195.73.113.158 for 123 seconds Ratio: 20
+Server 17 is processing request from 120.247.149.111 to 246.205.127.130 for 13 seconds Ratio: 20
+Server 17 has processed request
+Server 17 is processing request from 91.255.238.176 to 252.119.7.31 for 120 seconds Ratio: 20
+Server 11 has processed request
+Server 16 has processed request
+Server 9 has processed request
+Server 11 is processing request from 68.17.129.69 to 47.251.149.190 for 187 seconds Ratio: 20
+Server 16 is processing request from 79.114.58.240 to 104.66.63.137 for 111 seconds Ratio: 20
+Server 9 is processing request from 233.200.255.248 to 98.197.13.49 for 133 seconds Ratio: 20
+Server 15 has processed request
+Server 15 is processing request from 70.74.98.94 to 66.252.231.37 for 245 seconds Ratio: 20
+Server 18 has processed request
+Server 18 is processing request from 123.173.117.144 to 2.226.202.91 for 39 seconds Ratio: 20
+Server 12 has processed request
+Server 12 is processing request from 170.20.127.103 to 42.134.110.218 for 127 seconds Ratio: 20
+Server 5 has processed request
+Server 5 is processing request from 184.121.131.87 to 87.14.45.199 for 35 seconds Ratio: 20
+Server 13 has processed request
+Server 13 is processing request from 152.189.221.160 to 79.246.200.64 for 92 seconds Ratio: 20
+Server 2 has processed request
+Server 2 is processing request from 191.10.64.137 to 223.170.190.192 for 243 seconds Ratio: 20
+Server 7 has processed request
+Server 7 is processing request from 63.97.166.68 to 24.20.99.68 for 148 seconds Ratio: 20
+Server 10 has processed request
+Server 8 has processed request
+Server 10 is processing request from 165.88.204.154 to 184.225.177.33 for 222 seconds Ratio: 20
+Server 8 is processing request from 94.249.150.91 to 224.239.145.237 for 212 seconds Ratio: 20
+Server 18 has processed request
+Server 18 is processing request from 141.99.35.229 to 115.229.7.81 for 64 seconds Ratio: 19
+Server 5 has processed request
+Server 5 is processing request from 166.152.83.216 to 40.106.105.163 for 12 seconds Ratio: 19
+Server 6 has processed request
+Server 6 is processing request from 178.85.24.64 to 234.236.250.152 for 102 seconds Ratio: 19
+Server 5 has processed request
+Server 5 is processing request from 157.136.29.251 to 175.192.42.150 for 63 seconds Ratio: 19
+Server 0 has processed request
+Server 0 is processing request from 66.197.146.58 to 88.48.119.193 for 76 seconds Ratio: 19
+Server 14 has processed request
+Server 19 has processed request
+Server 14 is processing request from 129.204.243.228 to 18.79.11.227 for 196 seconds Ratio: 19
+Server 19 is processing request from 58.65.93.42 to 209.176.179.104 for 132 seconds Ratio: 19
+Server 17 has processed request
+Server 17 is processing request from 47.40.190.202 to 151.243.124.111 for 69 seconds Ratio: 19
+Server 16 has processed request
+Server 16 is processing request from 232.210.63.115 to 133.78.52.172 for 247 seconds Ratio: 19
+Server 3 has processed request
+Server 3 is processing request from 93.70.122.53 to 213.112.1.18 for 78 seconds Ratio: 19
+Server 9 has processed request
+Server 9 is processing request from 194.232.110.143 to 65.42.32.28 for 123 seconds Ratio: 19
+Server 18 has processed request
+Server 18 is processing request from 189.21.215.170 to 157.142.178.100 for 17 seconds Ratio: 19
+Server 13 has processed request
+Server 13 is processing request from 149.224.110.41 to 209.164.199.129 for 34 seconds Ratio: 19
+Server 5 has processed request
+Server 5 is processing request from 145.23.3.5 to 89.132.110.63 for 50 seconds Ratio: 19
+Server 18 has processed request
+Server 18 is processing request from 254.147.33.184 to 139.1.89.39 for 237 seconds Ratio: 19
+Server 12 has processed request
+Server 12 is processing request from 244.148.193.226 to 193.199.122.60 for 87 seconds Ratio: 19
+Server 0 has processed request
+Server 0 is processing request from 255.173.213.233 to 155.38.210.192 for 158 seconds Ratio: 19
+Server 13 has processed request
+Server 13 is processing request from 232.157.45.222 to 103.14.62.251 for 139 seconds Ratio: 19
+Server 17 has processed request
+Server 17 is processing request from 145.92.80.174 to 207.141.166.237 for 173 seconds Ratio: 19
+Server 6 has processed request
+Server 6 is processing request from 247.3.199.96 to 170.120.100.202 for 127 seconds Ratio: 19
+Server 11 has processed request
+Server 11 is processing request from 167.6.200.150 to 151.248.86.149 for 185 seconds Ratio: 18
+Server 3 has processed request
+Server 3 is processing request from 216.52.23.65 to 15.148.122.188 for 158 seconds Ratio: 18
+Server 7 has processed request
+Server 5 has processed request
+Server 7 is processing request from 156.6.40.160 to 227.221.131.110 for 157 seconds Ratio: 18
+Server 5 is processing request from 254.114.119.209 to 36.162.12.249 for 56 seconds Ratio: 18
+Server 4 has processed request
+Server 4 is processing request from 56.16.241.149 to 93.130.25.252 for 77 seconds Ratio: 18
+Server 1 has processed request
+Server 1 is processing request from 204.132.127.24 to 49.223.109.64 for 144 seconds Ratio: 18
+Server 19 has processed request
+Server 19 is processing request from 60.7.211.31 to 84.109.183.135 for 16 seconds Ratio: 18
+Server 19 has processed request
+Server 19 is processing request from 92.148.89.182 to 42.43.136.142 for 128 seconds Ratio: 18
+Server 12 has processed request
+Server 12 is processing request from 72.103.54.166 to 175.122.168.196 for 237 seconds Ratio: 18
+Server 5 has processed request
+Server 9 has processed request
+Server 15 has processed request
+Server 5 is processing request from 72.134.204.184 to 175.118.48.130 for 139 seconds Ratio: 18
+Server 9 is processing request from 218.230.102.212 to 212.43.143.156 for 247 seconds Ratio: 18
+Server 15 is processing request from 36.5.239.184 to 145.71.177.143 for 236 seconds Ratio: 18
+Server 8 has processed request
+Server 8 is processing request from 223.197.239.138 to 226.254.29.81 for 74 seconds Ratio: 18
+Server 4 has processed request
+Server 4 is processing request from 234.74.47.191 to 37.67.190.132 for 163 seconds Ratio: 18
+Server 10 has processed request
+Server 10 is processing request from 115.213.95.187 to 19.132.145.52 for 221 seconds Ratio: 18
+Server 2 has processed request
+Server 14 has processed request
+Server 2 is processing request from 131.190.90.119 to 240.228.158.91 for 68 seconds Ratio: 18
+Server 14 is processing request from 85.0.217.179 to 105.76.212.141 for 103 seconds Ratio: 18
+Server 6 has processed request
+Server 6 is processing request from 165.11.218.50 to 62.222.156.149 for 99 seconds Ratio: 18
+Server 13 has processed request
+Server 13 is processing request from 3.183.31.49 to 107.17.50.22 for 177 seconds Ratio: 18
+Server 0 has processed request
+Server 0 is processing request from 253.181.251.210 to 224.78.31.5 for 128 seconds Ratio: 18
+Server 8 has processed request
+Server 8 is processing request from 169.240.156.224 to 11.129.103.217 for 206 seconds Ratio: 17
+Server 17 has processed request
+Server 17 is processing request from 103.24.51.99 to 152.166.178.187 for 19 seconds Ratio: 17
+Server 1 has processed request
+Server 1 is processing request from 157.98.57.173 to 194.84.172.62 for 195 seconds Ratio: 17
+Server 3 has processed request
+Server 7 has processed request
+Server 3 is processing request from 131.150.36.75 to 45.159.76.171 for 202 seconds Ratio: 17
+Server 7 is processing request from 84.58.239.75 to 75.16.127.182 for 119 seconds Ratio: 17
+Server 16 has processed request
+Server 16 is processing request from 162.82.225.45 to 148.62.242.187 for 161 seconds Ratio: 17
+Server 2 has processed request
+Server 2 is processing request from 216.226.29.233 to 16.117.228.217 for 28 seconds Ratio: 17
+Server 17 has processed request
+Server 17 is processing request from 59.99.218.37 to 21.109.125.148 for 120 seconds Ratio: 17
+Server 11 has processed request
+Server 11 is processing request from 199.175.95.202 to 123.174.164.146 for 179 seconds Ratio: 17
+Server 19 has processed request
+Server 19 is processing request from 20.146.210.63 to 206.141.65.244 for 164 seconds Ratio: 17
+Server 18 has processed request
+Server 2 has processed request
+Server 18 is processing request from 252.147.188.22 to 173.239.230.236 for 158 seconds Ratio: 17
+Server 2 is processing request from 39.34.156.117 to 104.100.248.64 for 140 seconds Ratio: 17
+Server 5 has processed request
+Server 5 is processing request from 39.32.232.89 to 44.213.133.137 for 206 seconds Ratio: 17
+Server 14 has processed request
+Server 14 is processing request from 64.130.221.193 to 122.107.237.132 for 49 seconds Ratio: 17
+Server 6 has processed request
+Server 6 is processing request from 240.34.69.94 to 1.35.124.122 for 164 seconds Ratio: 17
+Server 4 has processed request
+Server 4 is processing request from 134.198.8.28 to 109.115.71.208 for 48 seconds Ratio: 17
+Server 14 has processed request
+Server 14 is processing request from 55.90.208.56 to 138.56.141.108 for 226 seconds Ratio: 17
+Server 0 has processed request
+Server 0 is processing request from 119.229.218.147 to 161.126.47.67 for 165 seconds Ratio: 17
+Server 7 has processed request
+Server 7 is processing request from 34.48.241.87 to 48.96.14.28 for 244 seconds Ratio: 17
+Server 12 has processed request
+Server 12 is processing request from 217.76.240.213 to 167.43.165.243 for 189 seconds Ratio: 17
+Server 17 has processed request
+Server 13 has processed request
+Server 17 is processing request from 238.147.56.18 to 87.194.15.85 for 41 seconds Ratio: 16
+Server 4 has processed request
+Server 13 is processing request from 93.6.78.161 to 119.255.242.179 for 148 seconds Ratio: 16
+Server 4 is processing request from 250.51.27.31 to 254.200.79.231 for 151 seconds Ratio: 16
+Server 15 has processed request
+Server 15 is processing request from 223.240.66.169 to 51.53.235.39 for 64 seconds Ratio: 16
+Server 9 has processed request
+Server 9 is processing request from 22.110.241.35 to 142.66.196.193 for 235 seconds Ratio: 16
+Server 10 has processed request
+Server 10 is processing request from 36.31.215.182 to 1.20.33.122 for 150 seconds Ratio: 16
+Server 16 has processed request
+Server 16 is processing request from 223.82.187.197 to 153.165.229.211 for 195 seconds Ratio: 16
+Server 2 has processed request
+Server 17 has processed request
+Server 2 is processing request from 46.203.32.241 to 34.212.182.169 for 109 seconds Ratio: 16
+Server 17 is processing request from 5.174.127.119 to 89.115.28.43 for 243 seconds Ratio: 16
+Server 19 has processed request
+Server 19 is processing request from 249.132.75.147 to 33.155.6.110 for 69 seconds Ratio: 16
+Server 1 has processed request
+Server 18 has processed request
+Server 1 is processing request from 63.84.140.3 to 40.112.124.203 for 145 seconds Ratio: 16
+Server 18 is processing request from 172.75.158.147 to 156.3.150.168 for 115 seconds Ratio: 16
+Server 11 has processed request
+Server 11 is processing request from 225.52.222.166 to 131.1.215.149 for 201 seconds Ratio: 16
+Server 8 has processed request
+Server 8 is processing request from 55.136.171.16 to 145.157.213.158 for 132 seconds Ratio: 16
+Server 15 has processed request
+Server 15 is processing request from 160.42.37.162 to 109.64.206.232 for 12 seconds Ratio: 16
+Server 3 has processed request
+Server 3 is processing request from 58.206.97.84 to 187.22.184.79 for 118 seconds Ratio: 16
+Server 15 has processed request
+Server 15 is processing request from 104.151.134.165 to 141.173.61.59 for 14 seconds Ratio: 16
+Server 6 has processed request
+Server 6 is processing request from 118.42.164.236 to 238.129.214.112 for 60 seconds Ratio: 16
+Server 15 has processed request
+Server 15 is processing request from 35.130.141.57 to 36.21.115.192 for 241 seconds Ratio: 16
+Server 5 has processed request
+Server 5 is processing request from 110.39.25.102 to 113.63.232.108 for 87 seconds Ratio: 16
+Server 19 has processed request
+Server 19 is processing request from 149.229.102.43 to 144.195.171.170 for 58 seconds Ratio: 15
+Server 0 has processed request
+Server 0 is processing request from 166.91.172.93 to 127.71.126.162 for 221 seconds Ratio: 15
+Server 6 has processed request
+Server 6 is processing request from 186.62.112.207 to 127.207.112.47 for 114 seconds Ratio: 15
+Server 13 has processed request
+Server 2 has processed request
+Server 13 is processing request from 18.55.248.96 to 105.58.242.49 for 192 seconds Ratio: 15
+Server 2 is processing request from 220.37.178.227 to 210.80.160.135 for 135 seconds Ratio: 15
+Server 4 has processed request
+Server 4 is processing request from 194.169.83.27 to 26.29.190.89 for 129 seconds Ratio: 15
+Server 10 has processed request
+Server 10 is processing request from 121.43.209.140 to 234.51.89.222 for 175 seconds Ratio: 15
+Server 18 has processed request
+Server 18 is processing request from 127.82.212.245 to 174.248.224.202 for 155 seconds Ratio: 15
+Server 19 has processed request
+Server 19 is processing request from 12.173.59.166 to 171.233.129.170 for 95 seconds Ratio: 15
+Server 14 has processed request
+Server 14 is processing request from 193.118.198.75 to 224.153.7.242 for 76 seconds Ratio: 15
+Server 3 has processed request
+Server 12 has processed request
+Server 3 is processing request from 9.248.178.202 to 1.225.212.70 for 45 seconds Ratio: 15
+Server 12 is processing request from 41.69.58.248 to 253.84.136.5 for 107 seconds Ratio: 15
+Server 8 has processed request
+Server 8 is processing request from 9.78.123.178 to 68.107.245.252 for 87 seconds Ratio: 15
+Server 5 has processed request
+Server 5 is processing request from 125.132.192.32 to 112.0.224.66 for 138 seconds Ratio: 15
+Server 1 has processed request
+Server 1 is processing request from 157.75.229.253 to 36.102.38.99 for 2 seconds Ratio: 15
+Server 1 has processed request
+Server 1 is processing request from 189.27.22.246 to 135.235.164.87 for 194 seconds Ratio: 15
+Server 16 has processed request
+Server 16 is processing request from 188.31.137.111 to 11.111.233.164 for 47 seconds Ratio: 15
+Server 7 has processed request
+Server 7 is processing request from 170.176.31.68 to 219.140.47.191 for 82 seconds Ratio: 15
+Server 3 has processed request
+Server 3 is processing request from 29.165.90.112 to 99.178.188.59 for 53 seconds Ratio: 15
+Server 9 has processed request
+Server 9 is processing request from 246.109.169.191 to 77.81.35.239 for 13 seconds Ratio: 15
+Server 6 has processed request
+Server 14 has processed request
+Server 6 is processing request from 220.188.44.220 to 50.93.12.215 for 18 seconds Ratio: 14
+Server 14 is processing request from 23.47.246.227 to 80.154.56.62 for 167 seconds Ratio: 14
+Server 9 has processed request
+Server 11 has processed request
+Server 9 is processing request from 119.144.209.247 to 252.153.227.40 for 63 seconds Ratio: 14
+Server 11 is processing request from 162.237.108.213 to 160.227.69.72 for 228 seconds Ratio: 14
+Server 19 has processed request
+Server 16 has processed request
+Server 19 is processing request from 81.82.177.235 to 212.245.59.195 for 115 seconds Ratio: 14
+Server 16 is processing request from 38.40.134.72 to 69.21.91.111 for 122 seconds Ratio: 14
+Server 6 has processed request
+Server 6 is processing request from 95.223.191.25 to 187.14.243.136 for 153 seconds Ratio: 14
+Server 4 has processed request
+Server 4 is processing request from 88.166.89.234 to 2.221.159.158 for 17 seconds Ratio: 14
+Server 17 has processed request
+Server 2 has processed request
+Server 8 has processed request
+Server 17 is processing request from 132.237.108.59 to 133.114.109.75 for 49 seconds Ratio: 14
+Server 2 is processing request from 235.177.168.162 to 39.26.237.216 for 43 seconds Ratio: 14
+Server 3 has processed request
+Server 8 is processing request from 2.31.9.104 to 220.243.216.157 for 217 seconds Ratio: 14
+Server 3 is processing request from 167.25.182.104 to 31.201.118.238 for 66 seconds Ratio: 14
+Server 12 has processed request
+Server 12 is processing request from 169.142.51.149 to 101.138.3.147 for 194 seconds Ratio: 14
+Server 4 has processed request
+Server 4 is processing request from 254.76.19.179 to 4.106.196.56 for 208 seconds Ratio: 14
+Server 7 has processed request
+Server 7 is processing request from 84.44.40.234 to 113.253.150.89 for 100 seconds Ratio: 14
+Server 9 has processed request
+Server 9 is processing request from 150.148.69.251 to 242.62.2.119 for 219 seconds Ratio: 14
+Server 2 has processed request
+Server 18 has processed request
+Server 2 is processing request from 197.39.128.91 to 226.88.185.161 for 75 seconds Ratio: 14
+Server 18 is processing request from 209.189.239.144 to 195.37.246.213 for 246 seconds Ratio: 14
+Server 17 has processed request
+Server 17 is processing request from 190.117.111.71 to 123.73.30.225 for 109 seconds Ratio: 14
+Server 15 has processed request
+Server 15 is processing request from 126.17.50.58 to 103.180.13.13 for 54 seconds Ratio: 14
+Server 5 has processed request
+Server 5 is processing request from 233.195.239.49 to 196.84.130.250 for 26 seconds Ratio: 13
+Server 10 has processed request
+Server 13 has processed request
+Server 10 is processing request from 118.169.209.193 to 87.43.57.172 for 51 seconds Ratio: 13
+Server 13 is processing request from 193.32.175.140 to 164.161.74.109 for 232 seconds Ratio: 13
+Server 3 has processed request
+Server 3 is processing request from 107.226.252.87 to 18.85.49.70 for 241 seconds Ratio: 13
+Server 0 has processed request
+Server 0 is processing request from 248.255.44.165 to 41.93.71.184 for 35 seconds Ratio: 13
+Server 5 has processed request
+Server 5 is processing request from 98.207.195.67 to 116.211.112.241 for 214 seconds Ratio: 13
+Server 19 has processed request
+Server 19 is processing request from 116.8.236.6 to 214.133.101.91 for 117 seconds Ratio: 13
+Server 15 has processed request
+Server 15 is processing request from 255.233.139.134 to 106.154.38.194 for 205 seconds Ratio: 13
+Server 0 has processed request
+Server 0 is processing request from 178.220.224.110 to 120.152.195.135 for 46 seconds Ratio: 13
+Server 10 has processed request
+Server 10 is processing request from 66.250.206.69 to 149.186.123.112 for 189 seconds Ratio: 13
+Server 16 has processed request
+Server 16 is processing request from 247.223.225.224 to 160.215.117.10 for 37 seconds Ratio: 13
+Server 1 has processed request
+Server 1 is processing request from 25.158.135.175 to 54.16.65.186 for 220 seconds Ratio: 13
+Server 2 has processed request
+Server 2 is processing request from 131.34.238.93 to 13.190.193.49 for 108 seconds Ratio: 13
+Server 7 has processed request
+Server 7 is processing request from 210.188.190.133 to 158.226.22.234 for 63 seconds Ratio: 13
+Server 14 has processed request
+Server 14 is processing request from 148.99.61.24 to 223.204.198.1 for 21 seconds Ratio: 13
+Server 6 has processed request
+Server 6 is processing request from 55.163.191.48 to 152.21.23.50 for 240 seconds Ratio: 13
+Server 16 has processed request
+Server 16 is processing request from 105.39.89.182 to 107.60.10.86 for 195 seconds Ratio: 13
+Server 0 has processed request
+Server 0 is processing request from 47.197.155.10 to 228.73.60.103 for 83 seconds Ratio: 13
+Server 17 has processed request
+Server 17 is processing request from 135.197.123.71 to 151.88.175.177 for 25 seconds Ratio: 13
+Server 14 has processed request
+Server 14 is processing request from 1.173.253.248 to 41.99.79.2 for 189 seconds Ratio: 13
+Server 17 has processed request
+Server 17 is processing request from 81.75.84.118 to 159.44.228.27 for 157 seconds Ratio: 12
+Server 7 has processed request
+Server 7 is processing request from 75.12.94.73 to 159.65.16.60 for 171 seconds Ratio: 12
+Server 12 has processed request
+Server 12 is processing request from 201.187.195.212 to 184.75.87.189 for 105 seconds Ratio: 12
+Server 11 has processed request
+Server 11 is processing request from 224.27.207.197 to 28.235.2.250 for 19 seconds Ratio: 12
+Server 8 has processed request
+Server 8 is processing request from 244.146.234.123 to 173.84.7.8 for 21 seconds Ratio: 12
+Server 19 has processed request
+Server 19 is processing request from 150.100.71.237 to 83.212.223.183 for 59 seconds Ratio: 12
+Server 4 has processed request
+Server 4 is processing request from 201.192.35.136 to 25.5.151.194 for 122 seconds Ratio: 12
+Server 11 has processed request
+Server 2 has processed request
+Server 11 is processing request from 186.154.226.52 to 243.143.8.29 for 100 seconds Ratio: 12
+Server 2 is processing request from 149.208.236.183 to 20.247.117.17 for 188 seconds Ratio: 12
+Server 0 has processed request
+Server 0 is processing request from 212.154.148.152 to 225.52.246.111 for 194 seconds Ratio: 12
+Server 8 has processed request
+Server 8 is processing request from 147.215.44.190 to 49.149.94.110 for 96 seconds Ratio: 12
+Server 9 has processed request
+Server 9 is processing request from 78.154.213.161 to 223.224.130.101 for 216 seconds Ratio: 12
+Server 19 has processed request
+Server 19 is processing request from 173.63.219.149 to 112.40.78.108 for 124 seconds Ratio: 12
+Server 13 has processed request
+Server 13 is processing request from 100.71.226.169 to 70.161.129.136 for 147 seconds Ratio: 12
+Server 18 has processed request
+Server 18 is processing request from 159.112.70.255 to 157.177.151.255 for 19 seconds Ratio: 12
+Server 5 has processed request
+Server 5 is processing request from 223.75.21.54 to 195.207.235.213 for 50 seconds Ratio: 12
+Server 10 has processed request
+Server 10 is processing request from 7.113.140.101 to 221.129.65.58 for 1 seconds Ratio: 12
+Server 10 has processed request
+Server 10 is processing request from 230.189.111.66 to 79.62.43.24 for 41 seconds Ratio: 12
+Server 3 has processed request
+Server 18 has processed request
+Server 3 is processing request from 17.71.128.152 to 68.29.75.72 for 241 seconds Ratio: 12
+Server 12 has processed request
+Server 15 has processed request
+Server 18 is processing request from 94.109.1.242 to 108.193.175.254 for 124 seconds Ratio: 12
+Server 12 is processing request from 56.190.68.132 to 53.241.255.181 for 89 seconds Ratio: 11
+Server 15 is processing request from 103.134.161.151 to 113.131.27.41 for 79 seconds Ratio: 11
+Server 11 has processed request
+Server 11 is processing request from 4.142.161.106 to 184.181.211.156 for 215 seconds Ratio: 11
+Server 1 has processed request
+Server 8 has processed request
+Server 1 is processing request from 44.230.114.132 to 65.62.238.26 for 162 seconds Ratio: 11
+Server 8 is processing request from 18.195.238.198 to 125.61.200.104 for 48 seconds Ratio: 11
+Server 10 has processed request
+Server 10 is processing request from 108.229.82.155 to 77.25.251.49 for 189 seconds Ratio: 11
+Server 17 has processed request
+Server 17 is processing request from 241.87.114.196 to 15.32.13.99 for 220 seconds Ratio: 11
+Server 16 has processed request
+Server 16 is processing request from 119.47.151.157 to 98.28.231.23 for 132 seconds Ratio: 11
+Server 5 has processed request
+Server 4 has processed request
+Server 5 is processing request from 61.212.175.158 to 222.114.225.47 for 88 seconds Ratio: 11
+Server 4 is processing request from 229.112.48.117 to 39.121.93.162 for 185 seconds Ratio: 11
+Server 14 has processed request
+Server 14 is processing request from 53.190.185.121 to 149.190.44.27 for 144 seconds Ratio: 11
+Server 7 has processed request
+Server 7 is processing request from 16.181.182.134 to 235.178.201.144 for 134 seconds Ratio: 11
+Server 8 has processed request
+Server 8 is processing request from 231.194.66.222 to 156.91.59.238 for 45 seconds Ratio: 11
+Server 6 has processed request
+Server 6 is processing request from 55.177.79.36 to 65.205.8.80 for 52 seconds Ratio: 11
+Server 15 has processed request
+Server 15 is processing request from 107.76.95.168 to 15.28.86.217 for 89 seconds Ratio: 11
+Server 12 has processed request
+Server 12 is processing request from 61.99.72.211 to 9.226.31.167 for 11 seconds Ratio: 11
+Server 19 has processed request
+Server 19 is processing request from 136.153.97.252 to 36.216.104.149 for 245 seconds Ratio: 11
+Server 12 has processed request
+Server 12 is processing request from 121.238.153.168 to 11.20.201.75 for 134 seconds Ratio: 11
+Server 2 has processed request
+Server 2 is processing request from 8.69.135.191 to 247.57.183.106 for 119 seconds Ratio: 11
+Server 8 has processed request
+Server 8 is processing request from 53.222.116.139 to 222.140.129.84 for 102 seconds Ratio: 11
+Server 0 has processed request
+Server 0 is processing request from 46.60.202.254 to 104.223.96.176 for 241 seconds Ratio: 10
+Server 5 has processed request
+Server 5 is processing request from 167.8.167.46 to 113.103.121.226 for 158 seconds Ratio: 10
+Server 18 has processed request
+Server 18 is processing request from 129.78.118.167 to 227.136.22.188 for 106 seconds Ratio: 10
+Server 13 has processed request
+Server 13 is processing request from 76.141.10.46 to 17.183.136.193 for 45 seconds Ratio: 10
+Server 6 has processed request
+Server 6 is processing request from 151.105.231.81 to 3.15.83.223 for 198 seconds Ratio: 10
+Server 16 has processed request
+Server 16 is processing request from 126.97.65.182 to 76.254.99.39 for 13 seconds Ratio: 10
+Server 9 has processed request
+Server 9 is processing request from 15.148.45.26 to 158.153.15.182 for 75 seconds Ratio: 10
+Server 15 has processed request
+Server 15 is processing request from 35.221.140.238 to 216.0.207.147 for 151 seconds Ratio: 10
+Server 13 has processed request
+Server 13 is processing request from 58.169.176.14 to 230.194.156.214 for 67 seconds Ratio: 10
+Server 16 has processed request
+Server 16 is processing request from 188.143.184.133 to 107.94.147.144 for 67 seconds Ratio: 10
+Server 14 has processed request
+Server 1 has processed request
+Server 7 has processed request
+Server 14 is processing request from 172.220.103.4 to 112.219.43.142 for 236 seconds Ratio: 10
+Server 1 is processing request from 118.206.197.36 to 237.96.189.101 for 62 seconds Ratio: 10
+Server 7 is processing request from 100.85.224.71 to 160.102.246.210 for 174 seconds Ratio: 10
+Server 10 has processed request
+Server 10 is processing request from 0.80.70.33 to 183.165.100.172 for 33 seconds Ratio: 10
+Server 4 has processed request
+Server 8 has processed request
+Server 4 is processing request from 76.224.189.162 to 176.26.205.211 for 48 seconds Ratio: 10
+Server 8 is processing request from 45.59.205.27 to 59.172.106.87 for 120 seconds Ratio: 10
+Server 2 has processed request
+Server 2 is processing request from 196.145.146.88 to 231.192.12.39 for 159 seconds Ratio: 10
+Server 18 has processed request
+Server 18 is processing request from 193.139.72.148 to 236.182.250.41 for 70 seconds Ratio: 10
+Server 11 has processed request
+Server 11 is processing request from 166.176.11.131 to 187.214.251.170 for 19 seconds Ratio: 10
+Server 12 has processed request
+Server 12 is processing request from 124.108.16.96 to 24.32.6.139 for 157 seconds Ratio: 10
+Server 13 has processed request
+Server 13 is processing request from 48.70.207.116 to 175.248.247.38 for 113 seconds Ratio: 9
+Server 3 has processed request
+Server 3 is processing request from 46.144.211.191 to 141.48.216.249 for 22 seconds Ratio: 9
+Server 9 has processed request
+Server 9 is processing request from 69.52.121.170 to 159.2.247.7 for 33 seconds Ratio: 9
+Server 16 has processed request
+Server 16 is processing request from 73.237.166.170 to 142.94.60.209 for 117 seconds Ratio: 9
+Server 1 has processed request
+Server 1 is processing request from 64.16.40.69 to 8.50.170.30 for 1 seconds Ratio: 9
+Server 1 has processed request
+Server 11 has processed request
+Server 17 has processed request
+Server 1 is processing request from 60.19.97.20 to 169.171.189.19 for 90 seconds Ratio: 9
+Server 10 has processed request
+Server 11 is processing request from 199.103.164.222 to 46.254.127.50 for 242 seconds Ratio: 9
+Server 17 is processing request from 196.192.58.72 to 153.209.79.125 for 249 seconds Ratio: 9
+Server 10 is processing request from 237.162.7.38 to 53.26.174.38 for 5 seconds Ratio: 9
+Server 10 has processed request
+Server 10 is processing request from 250.173.136.40 to 17.173.156.216 for 100 seconds Ratio: 9
+Server 3 has processed request
+Server 3 is processing request from 230.62.167.249 to 68.50.97.209 for 225 seconds Ratio: 9
+Server 4 has processed request
+Server 4 is processing request from 117.84.149.234 to 103.185.240.100 for 157 seconds Ratio: 9
+Server 9 has processed request
+Server 9 is processing request from 166.129.205.214 to 95.251.241.200 for 81 seconds Ratio: 9
+Server 5 has processed request
+Server 5 is processing request from 154.96.216.100 to 52.12.132.250 for 120 seconds Ratio: 9
+Server 18 has processed request
+Server 18 is processing request from 212.160.188.57 to 23.200.29.33 for 99 seconds Ratio: 9
+Server 15 has processed request
+Server 15 is processing request from 90.202.148.228 to 229.78.80.222 for 64 seconds Ratio: 9
+Server 6 has processed request
+Server 6 is processing request from 153.110.230.192 to 197.240.176.204 for 92 seconds Ratio: 9
+Server 19 has processed request
+Server 19 is processing request from 36.233.131.184 to 193.192.194.9 for 245 seconds Ratio: 9
+Server 1 has processed request
+Server 8 has processed request
+Server 1 is processing request from 128.141.68.90 to 67.149.188.21 for 232 seconds Ratio: 9
+Server 8 is processing request from 147.17.113.30 to 67.67.41.223 for 233 seconds Ratio: 9
+Server 13 has processed request
+Server 13 is processing request from 140.56.155.131 to 185.71.155.125 for 78 seconds Ratio: 8
+Server 9 has processed request
+Server 10 has processed request
+Server 9 is processing request from 139.0.208.141 to 3.17.187.59 for 215 seconds Ratio: 8
+Server 10 is processing request from 222.197.125.17 to 8.199.40.229 for 120 seconds Ratio: 8
+Server 0 has processed request
+Server 7 has processed request
+Server 16 has processed request
+Server 0 is processing request from 236.194.45.223 to 10.6.179.208 for 102 seconds Ratio: 8
+Server 7 is processing request from 254.70.104.124 to 151.11.185.31 for 55 seconds Ratio: 8
+Server 16 is processing request from 104.141.65.123 to 247.42.11.202 for 202 seconds Ratio: 8
+Server 2 has processed request
+Server 15 has processed request
+Server 2 is processing request from 44.126.78.22 to 214.208.99.96 for 63 seconds Ratio: 8
+Server 15 is processing request from 167.97.118.181 to 96.78.108.201 for 184 seconds Ratio: 8
+Server 12 has processed request
+Server 12 is processing request from 38.73.220.23 to 65.47.183.171 for 193 seconds Ratio: 8
+Server 18 has processed request
+Server 18 is processing request from 105.48.120.18 to 188.235.244.13 for 135 seconds Ratio: 8
+Server 5 has processed request
+Server 5 is processing request from 248.174.143.104 to 188.222.11.31 for 219 seconds Ratio: 8
+Server 7 has processed request
+Server 7 is processing request from 191.202.142.123 to 124.90.20.120 for 44 seconds Ratio: 8
+Server 6 has processed request
+Server 6 is processing request from 109.211.169.167 to 103.93.93.127 for 7 seconds Ratio: 8
+Server 14 has processed request
+Server 14 is processing request from 227.220.135.121 to 56.194.84.97 for 205 seconds Ratio: 8
+Server 4 has processed request
+Server 6 has processed request
+Server 4 is processing request from 100.124.87.47 to 139.220.130.21 for 188 seconds Ratio: 8
+Server 6 is processing request from 242.75.76.198 to 57.113.161.61 for 63 seconds Ratio: 8
+Server 13 has processed request
+Server 13 is processing request from 57.114.248.158 to 31.212.59.124 for 211 seconds Ratio: 8
+Server 2 has processed request
+Server 2 is processing request from 50.17.238.93 to 116.84.208.101 for 75 seconds Ratio: 8
+Server 7 has processed request
+Server 7 is processing request from 253.229.75.230 to 150.104.7.228 for 57 seconds Ratio: 8
+Server 0 has processed request
+Server 0 is processing request from 100.27.210.106 to 199.92.165.230 for 154 seconds Ratio: 8
+Server 10 has processed request
+Server 10 is processing request from 232.170.130.138 to 219.182.55.150 for 189 seconds Ratio: 7
+Server 3 has processed request
+Server 3 is processing request from 95.130.62.102 to 52.54.118.185 for 193 seconds Ratio: 7
+Server 6 has processed request
+Server 6 is processing request from 131.234.78.14 to 146.101.156.8 for 86 seconds Ratio: 7
+Server 11 has processed request
+Server 11 is processing request from 10.159.115.172 to 115.164.140.32 for 112 seconds Ratio: 7
+Server 17 has processed request
+Server 17 is processing request from 42.229.44.100 to 5.106.31.124 for 113 seconds Ratio: 7
+Server 7 has processed request
+Server 7 is processing request from 21.8.20.7 to 118.115.40.116 for 105 seconds Ratio: 7
+Server 2 has processed request
+Server 2 is processing request from 34.245.171.115 to 38.6.110.170 for 119 seconds Ratio: 7
+Server 18 has processed request
+Server 18 is processing request from 233.175.208.93 to 163.0.161.91 for 215 seconds Ratio: 7
+Server 16 has processed request
+Server 16 is processing request from 168.124.164.247 to 145.218.36.98 for 46 seconds Ratio: 7
+Server 15 has processed request
+Server 15 is processing request from 73.67.196.157 to 32.96.235.160 for 192 seconds Ratio: 7
+Server 9 has processed request
+Server 1 has processed request
+Server 9 is processing request from 28.157.170.19 to 155.195.197.223 for 224 seconds Ratio: 7
+Server 1 is processing request from 24.175.96.146 to 149.185.182.142 for 86 seconds Ratio: 7
+Server 8 has processed request
+Server 6 has processed request
+Server 8 is processing request from 144.224.78.155 to 27.227.29.162 for 1 seconds Ratio: 7
+Server 8 has processed request
+Server 6 is processing request from 194.190.205.191 to 255.34.200.90 for 189 seconds Ratio: 7
+Server 8 is processing request from 32.87.33.111 to 180.250.106.140 for 181 seconds Ratio: 7
+Server 19 has processed request
+Server 19 is processing request from 45.10.34.90 to 21.86.191.152 for 50 seconds Ratio: 7
+Server 12 has processed request
+Server 12 is processing request from 215.73.215.193 to 181.166.36.128 for 75 seconds Ratio: 7
+Server 11 has processed request
+Server 11 is processing request from 122.227.233.100 to 247.110.88.115 for 160 seconds Ratio: 7
+Server 16 has processed request
+Server 16 is processing request from 49.35.89.79 to 66.89.193.54 for 122 seconds Ratio: 7
+Server 17 has processed request
+Server 4 has processed request
+Server 17 is processing request from 174.201.225.27 to 49.222.159.170 for 17 seconds Ratio: 7
+Server 4 is processing request from 181.178.235.164 to 112.162.232.221 for 2 seconds Ratio: 6
+Server 4 has processed request
+Server 4 is processing request from 14.69.213.203 to 168.48.89.239 for 30 seconds Ratio: 6
+Server 0 has processed request
+Server 0 is processing request from 157.86.197.224 to 180.186.251.9 for 204 seconds Ratio: 6
+Server 5 has processed request
+Server 5 is processing request from 118.119.243.115 to 26.100.158.207 for 148 seconds Ratio: 6
+Server 7 has processed request
+Server 7 is processing request from 125.18.233.46 to 174.139.163.26 for 151 seconds Ratio: 6
+Server 14 has processed request
+Server 14 is processing request from 112.56.252.247 to 255.154.57.79 for 103 seconds Ratio: 6
+Server 17 has processed request
+Server 17 is processing request from 176.204.217.240 to 156.89.125.15 for 19 seconds Ratio: 6
+Server 19 has processed request
+Server 19 is processing request from 110.50.76.39 to 245.45.37.34 for 203 seconds Ratio: 6
+Server 2 has processed request
+Server 13 has processed request
+Server 2 is processing request from 74.63.8.59 to 84.69.114.80 for 74 seconds Ratio: 6
+Server 13 is processing request from 131.135.120.97 to 226.145.64.22 for 53 seconds Ratio: 6
+Server 4 has processed request
+Server 4 is processing request from 224.62.144.186 to 123.143.138.33 for 213 seconds Ratio: 6
+Server 17 has processed request
+Server 17 is processing request from 86.67.255.205 to 161.130.83.18 for 58 seconds Ratio: 6
+Server 1 has processed request
+Server 1 is processing request from 31.246.105.233 to 93.201.46.84 for 69 seconds Ratio: 6
+Server 12 has processed request
+Server 12 is processing request from 246.164.37.138 to 221.49.56.63 for 107 seconds Ratio: 6
+Server 10 has processed request
+Server 10 is processing request from 243.152.233.147 to 156.207.20.83 for 34 seconds Ratio: 6
+Server 3 has processed request
+Server 3 is processing request from 133.18.95.219 to 245.176.184.232 for 90 seconds Ratio: 6
+Server 13 has processed request
+Server 13 is processing request from 26.29.117.248 to 82.134.99.39 for 226 seconds Ratio: 6
+Server 10 has processed request
+Server 10 is processing request from 75.67.187.123 to 85.59.127.69 for 160 seconds Ratio: 6
+Server 17 has processed request
+Server 17 is processing request from 146.226.181.127 to 135.113.198.158 for 235 seconds Ratio: 6
+Server 2 has processed request
+Server 2 is processing request from 156.33.41.7 to 237.15.144.184 for 73 seconds Ratio: 6
+Server 1 has processed request
+Server 1 is processing request from 21.151.42.1 to 62.239.225.14 for 210 seconds Ratio: 5
+Server 14 has processed request
+Server 14 is processing request from 54.224.50.82 to 240.37.0.61 for 22 seconds Ratio: 5
+Server 16 has processed request
+Server 16 is processing request from 133.87.133.24 to 237.183.114.178 for 30 seconds Ratio: 5
+Server 18 has processed request
+Server 18 is processing request from 32.125.210.189 to 3.53.173.106 for 194 seconds Ratio: 5
+Server 14 has processed request
+Server 14 is processing request from 181.111.29.152 to 161.74.139.90 for 88 seconds Ratio: 5
+Server 8 has processed request
+Server 8 is processing request from 145.43.250.225 to 240.101.8.1 for 123 seconds Ratio: 5
+Server 15 has processed request
+Server 15 is processing request from 118.170.156.99 to 152.234.247.100 for 15 seconds Ratio: 5
+Server 16 has processed request
+Server 16 is processing request from 188.179.121.160 to 161.65.173.54 for 101 seconds Ratio: 5
+Server 6 has processed request
+Server 6 is processing request from 135.46.162.121 to 22.251.16.112 for 76 seconds Ratio: 5
+Server 11 has processed request
+Server 11 is processing request from 171.38.116.255 to 160.95.65.200 for 148 seconds Ratio: 5
+Server 12 has processed request
+Server 5 has processed request
+Server 12 is processing request from 31.47.216.161 to 50.104.157.168 for 230 seconds Ratio: 5
+Server 5 is processing request from 68.38.182.220 to 248.241.231.153 for 193 seconds Ratio: 5
+Server 3 has processed request
+Server 3 is processing request from 42.161.187.60 to 17.115.86.251 for 56 seconds Ratio: 5
+Server 7 has processed request
+Server 7 is processing request from 254.153.15.83 to 195.253.43.117 for 22 seconds Ratio: 5
+Server 15 has processed request
+Server 15 is processing request from 8.146.1.215 to 11.99.149.31 for 192 seconds Ratio: 5
+Server 2 has processed request
+Server 2 is processing request from 2.154.11.28 to 73.139.11.38 for 143 seconds Ratio: 5
+Server 7 has processed request
+Server 9 has processed request
+Server 7 is processing request from 120.181.74.24 to 220.54.141.205 for 122 seconds Ratio: 5
+Server 9 is processing request from 202.193.58.250 to 37.34.150.114 for 44 seconds Ratio: 5
+Server 0 has processed request
+Server 0 is processing request from 109.206.158.121 to 15.247.73.184 for 237 seconds Ratio: 5
+Server 3 has processed request
+Server 3 is processing request from 0.66.152.81 to 91.193.131.224 for 132 seconds Ratio: 5
+Server 19 has processed request
+Server 19 is processing request from 74.162.156.57 to 13.37.212.210 for 126 seconds Ratio: 4
+Server 6 has processed request
+Server 9 has processed request
+Server 6 is processing request from 83.65.38.108 to 95.35.109.98 for 67 seconds Ratio: 4
+Server 9 is processing request from 51.164.113.39 to 140.17.103.8 for 86 seconds Ratio: 4
+Server 14 has processed request
+Server 14 is processing request from 244.236.205.98 to 174.59.243.103 for 116 seconds Ratio: 4
+Server 4 has processed request
+Server 4 is processing request from 233.30.143.247 to 95.196.80.115 for 121 seconds Ratio: 4
+Server 10 has processed request
+Server 10 is processing request from 72.183.99.102 to 130.135.88.173 for 212 seconds Ratio: 4
+Server 16 has processed request
+Server 16 is processing request from 192.238.93.4 to 214.147.0.221 for 57 seconds Ratio: 4
+Server 8 has processed request
+Server 8 is processing request from 142.170.141.187 to 85.153.252.60 for 119 seconds Ratio: 4
+Server 6 has processed request
+Server 6 is processing request from 146.149.208.82 to 241.140.195.119 for 98 seconds Ratio: 4
+Server 11 has processed request
+Server 11 is processing request from 35.39.229.207 to 2.209.185.74 for 29 seconds Ratio: 4
+Server 7 has processed request
+Server 7 is processing request from 226.83.81.69 to 196.0.214.23 for 193 seconds Ratio: 4
+Server 13 has processed request
+Server 16 has processed request
+Server 13 is processing request from 128.185.169.8 to 173.255.147.136 for 173 seconds Ratio: 4
+Server 16 is processing request from 47.197.35.190 to 253.190.229.173 for 192 seconds Ratio: 4
+Server 9 has processed request
+Server 9 is processing request from 193.52.47.49 to 48.144.8.138 for 187 seconds Ratio: 4
+Server 2 has processed request
+Server 2 is processing request from 17.33.228.224 to 158.181.215.49 for 62 seconds Ratio: 4
+Server 1 has processed request
+Server 1 is processing request from 224.253.235.140 to 54.69.248.204 for 44 seconds Ratio: 4
+Server 11 has processed request
+Server 17 has processed request
+Server 11 is processing request from 5.64.198.239 to 94.220.85.229 for 49 seconds Ratio: 4
+Server 17 is processing request from 9.46.65.221 to 145.73.32.197 for 138 seconds Ratio: 4
+Server 18 has processed request
+Server 18 is processing request from 19.63.137.1 to 228.50.193.119 for 205 seconds Ratio: 4
+Server 14 has processed request
+Server 14 is processing request from 151.96.226.19 to 142.84.83.33 for 63 seconds Ratio: 4
+Server 3 has processed request
+Server 3 is processing request from 117.238.19.243 to 81.67.14.181 for 11 seconds Ratio: 3
+Server 5 has processed request
+Server 5 is processing request from 254.145.145.149 to 19.166.29.96 for 21 seconds Ratio: 3
+Server 19 has processed request
+Server 19 is processing request from 132.109.29.180 to 42.234.190.191 for 249 seconds Ratio: 3
+Server 15 has processed request
+Server 15 is processing request from 166.210.125.228 to 150.243.244.104 for 164 seconds Ratio: 3
+Server 3 has processed request
+Server 3 is processing request from 113.169.254.245 to 245.238.230.88 for 38 seconds Ratio: 3
+Server 4 has processed request
+Server 4 is processing request from 247.63.133.95 to 195.14.221.102 for 199 seconds Ratio: 3
+Server 1 has processed request
+Server 5 has processed request
+Server 1 is processing request from 122.116.208.87 to 5.168.6.21 for 154 seconds Ratio: 3
+Server 5 is processing request from 185.170.79.14 to 125.102.60.131 for 136 seconds Ratio: 3
+Server 11 has processed request
+Server 11 is processing request from 71.15.254.243 to 193.112.110.11 for 238 seconds Ratio: 3
+Server 2 has processed request
+Server 2 is processing request from 209.58.160.78 to 92.165.36.105 for 243 seconds Ratio: 3
+Server 12 has processed request
+Server 8 has processed request
+Server 12 is processing request from 230.96.220.12 to 140.71.221.193 for 221 seconds Ratio: 3
+Server 8 is processing request from 76.42.138.209 to 63.122.45.228 for 101 seconds Ratio: 3
+Server 6 has processed request
+Server 6 is processing request from 21.12.81.22 to 43.251.178.132 for 188 seconds Ratio: 3
+Server 3 has processed request
+Server 3 is processing request from 218.238.242.227 to 246.75.69.98 for 131 seconds Ratio: 3
+Server 14 has processed request
+Server 14 is processing request from 148.85.207.254 to 6.132.105.33 for 228 seconds Ratio: 3
+Server 0 has processed request
+Server 0 is processing request from 160.26.103.58 to 81.148.182.233 for 105 seconds Ratio: 3
+Server 10 has processed request
+Server 10 is processing request from 196.254.110.122 to 66.231.77.55 for 70 seconds Ratio: 3
+Server 17 has processed request
+Server 17 is processing request from 60.121.120.81 to 23.237.82.13 for 174 seconds Ratio: 3
+Server 13 has processed request
+Server 13 is processing request from 147.127.109.85 to 187.47.253.156 for 189 seconds Ratio: 3
+Server 8 has processed request
+Server 8 is processing request from 195.185.56.69 to 207.230.104.96 for 129 seconds Ratio: 3
+Server 7 has processed request
+Server 7 is processing request from 83.44.54.225 to 48.137.59.217 for 9 seconds Ratio: 2
+Server 16 has processed request
+Server 9 has processed request
+Server 16 is processing request from 113.230.197.136 to 42.236.14.45 for 231 seconds Ratio: 2
+Server 9 is processing request from 184.64.198.132 to 232.33.77.145 for 101 seconds Ratio: 2
+Server 5 has processed request
+Server 5 is processing request from 173.251.100.132 to 65.238.142.22 for 122 seconds Ratio: 2
+Server 7 has processed request
+Server 7 is processing request from 64.38.247.53 to 207.51.109.235 for 97 seconds Ratio: 2
+Server 15 has processed request
+Server 15 is processing request from 118.221.101.19 to 205.230.62.45 for 50 seconds Ratio: 2
+Server 1 has processed request
+Server 1 is processing request from 13.100.120.177 to 123.7.23.100 for 14 seconds Ratio: 2
+Server 3 has processed request
+Server 3 is processing request from 36.189.241.188 to 186.162.86.52 for 196 seconds Ratio: 2
+Server 10 has processed request
+Server 10 is processing request from 232.208.202.246 to 103.188.124.140 for 172 seconds Ratio: 2
+Server 18 has processed request
+Server 18 is processing request from 236.90.8.196 to 36.222.234.171 for 38 seconds Ratio: 2
+Server 1 has processed request
+Server 1 is processing request from 177.55.45.168 to 71.168.102.241 for 107 seconds Ratio: 2
+Server 0 has processed request
+Server 0 is processing request from 173.25.16.42 to 249.35.207.245 for 203 seconds Ratio: 2
+Server 4 has processed request
+Server 4 is processing request from 78.198.191.58 to 76.231.240.220 for 16 seconds Ratio: 2
+Server 15 has processed request
+Server 15 is processing request from 50.134.40.244 to 254.58.117.43 for 96 seconds Ratio: 2
+Server 18 has processed request
+Server 18 is processing request from 86.145.33.8 to 196.109.68.117 for 140 seconds Ratio: 2
+Server 6 has processed request
+Server 6 is processing request from 179.27.91.71 to 13.132.125.157 for 109 seconds Ratio: 2
+Server 4 has processed request
+Server 4 is processing request from 252.191.44.252 to 36.131.154.185 for 130 seconds Ratio: 2
+Server 19 has processed request
+Server 19 is processing request from 188.0.25.235 to 91.7.125.38 for 125 seconds Ratio: 2
+Server 9 has processed request
+Server 9 is processing request from 204.136.2.134 to 43.174.234.118 for 58 seconds Ratio: 2
+Server 7 has processed request
+Server 7 is processing request from 85.12.93.247 to 175.93.136.46 for 4 seconds Ratio: 2
+Server 12 has processed request
+Server 12 is processing request from 21.114.52.136 to 205.32.225.63 for 29 seconds Ratio: 1
+Server 7 has processed request
+Server 7 is processing request from 159.241.73.162 to 15.33.167.4 for 155 seconds Ratio: 1
+Server 8 has processed request
+Server 8 is processing request from 225.127.26.14 to 143.74.72.98 for 13 seconds Ratio: 1
+Server 11 has processed request
+Server 11 is processing request from 63.94.161.187 to 164.93.148.188 for 48 seconds Ratio: 1
+Server 2 has processed request
+Server 2 is processing request from 210.153.108.177 to 21.154.30.1 for 48 seconds Ratio: 1
+Server 5 has processed request
+Server 5 is processing request from 250.147.92.15 to 161.107.135.67 for 171 seconds Ratio: 1
+Server 8 has processed request
+Server 8 is processing request from 78.201.135.105 to 22.210.213.176 for 238 seconds Ratio: 1
+Server 12 has processed request
+Server 12 is processing request from 186.86.244.28 to 251.246.45.76 for 72 seconds Ratio: 1
+Server 14 has processed request
+Server 14 is processing request from 74.250.115.194 to 211.159.191.181 for 190 seconds Ratio: 1
+Server 17 has processed request
+Server 17 is processing request from 168.76.54.171 to 191.139.216.247 for 227 seconds Ratio: 1
+Server 1 has processed request
+Server 1 is processing request from 182.136.204.212 to 174.86.136.2 for 108 seconds Ratio: 1
+Server 9 has processed request
+Server 9 is processing request from 50.207.213.207 to 16.81.212.124 for 64 seconds Ratio: 1
+Server 11 has processed request
+Server 15 has processed request
+Server 11 is processing request from 234.226.176.16 to 69.178.49.202 for 68 seconds Ratio: 1
+Server 15 is processing request from 126.204.247.135 to 200.251.208.141 for 153 seconds Ratio: 1
+Server 13 has processed request
+Server 13 is processing request from 20.43.79.235 to 130.108.109.203 for 235 seconds Ratio: 1
+Server 2 has processed request
+Server 2 is processing request from 200.239.95.241 to 217.9.192.131 for 84 seconds Ratio: 1
+Server 6 has processed request
+Server 6 is processing request from 4.64.175.39 to 153.120.216.1 for 173 seconds Ratio: 1
+Server 10 has processed request
+Server 10 is processing request from 33.110.149.22 to 19.84.23.250 for 100 seconds Ratio: 1
+Server 12 has processed request
+Server 12 is processing request from 154.243.91.23 to 34.89.211.249 for 93 seconds Ratio: 1
+Server 4 has processed request
+Server 4 is processing request from 164.67.190.195 to 168.255.16.107 for 217 seconds Ratio: 1
+Server 18 has processed request
+Server 18 is processing request from 14.210.140.45 to 71.38.58.52 for 162 seconds Ratio: 0
+Server 3 has processed request
+Server 3 is processing request from 102.160.53.217 to 49.12.232.186 for 202 seconds Ratio: 0
+Server 9 has processed request
+Server 19 has processed request
+Server 9 is processing request from 51.224.170.9 to 252.74.121.198 for 78 seconds Ratio: 0
+Server 19 is processing request from 213.34.16.168 to 183.119.65.7 for 129 seconds Ratio: 0
+Server 16 has processed request
+Server 16 is processing request from 240.102.191.156 to 237.64.39.28 for 49 seconds Ratio: 0
+Server 11 has processed request
+Server 11 is processing request from 236.58.67.243 to 183.31.213.160 for 178 seconds Ratio: 0
+Server 1 has processed request
+Server 1 is processing request from 80.157.5.196 to 159.133.223.177 for 231 seconds Ratio: 0
+Server 0 has processed request
+Server 0 is processing request from 180.227.102.20 to 174.175.25.63 for 143 seconds Ratio: 0
+Server 2 has processed request
+Server 2 is processing request from 211.243.141.239 to 185.44.108.249 for 106 seconds Ratio: 0
+Server 7 has processed request
+Server 7 is processing request from 41.31.169.245 to 147.15.45.136 for 69 seconds Ratio: 0
+Server 16 has processed request
+Server 16 is processing request from 187.64.6.52 to 191.5.148.188 for 151 seconds Ratio: 0
+Server 5 has processed request
+Server 5 is processing request from 187.87.7.169 to 111.220.67.191 for 211 seconds Ratio: 0
+Server 12 has processed request
+Server 12 is processing request from 249.5.205.136 to 179.179.177.141 for 83 seconds Ratio: 0
+Server 9 has processed request
+Server 10 has processed request
+Server 9 is processing request from 125.52.6.53 to 233.236.7.200 for 191 seconds Ratio: 0
+Server 10 is processing request from 230.60.234.134 to 107.56.127.49 for 192 seconds Ratio: 0
+Server 15 has processed request
+Server 15 is processing request from 79.24.159.243 to 117.220.152.165 for 240 seconds Ratio: 0
+Server 14 has processed request
+Server 14 is processing request from 104.24.80.67 to 202.31.131.134 for 120 seconds Ratio: 0
+Server 7 has processed request
+Server 7 is processing request from 20.4.42.171 to 97.140.92.243 for 249 seconds Ratio: 0
+Server 19 has processed request
+Server 19 is processing request from 70.75.145.180 to 44.184.112.106 for 17 seconds Ratio: 0
+Server 2 has processed request
+Server 2 is processing request from 103.230.17.6 to 122.231.80.66 for 250 seconds Ratio: 0
+Server 6 has processed request
+Server 8 has processed request
+Server 17 has processed request
+Server 19 has processed request
+Server 18 has processed request
+Server 12 has processed request
+Server 0 has processed request
+Server 13 has processed request
+Server 11 has processed request
+Server 3 has processed request
+Server 4 has processed request
+Server 16 has processed request
+Server 14 has processed request
+Server 1 has processed request
+Server 9 has processed request
+Server 10 has processed request
+Server 5 has processed request
+Server 15 has processed request
+Server 7 has processed request
+Server 2 has processed request
+Server 19 has been deallocted. 0
+Server 18 has been deallocted. 0
+Server 17 has been deallocted. 0
+Server 16 has been deallocted. 0
+Server 15 has been deallocted. 0
+Server 14 has been deallocted. 0
+Server 13 has been deallocted. 0
+Server 12 has been deallocted. 0
+Server 11 has been deallocted. 0
+Server 10 has been deallocted. 0
+Server 9 has been deallocted. 0
+Server 8 has been deallocted. 0
+Server 7 has been deallocted. 0
+Server 6 has been deallocted. 0
+Server 5 has been deallocted. 0
+Server 4 has been deallocted. 0
+Server 3 has been deallocted. 0
+Server 2 has been deallocted. 0
+Server 1 has been deallocted. 0
+Simulation complete. All servers are idle: true
+Final Queue Size: 0 requests
+Number of servers: 1

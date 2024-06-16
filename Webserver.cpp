@@ -3,7 +3,7 @@
 using namespace std;
 
 void WebServer::processRequest(Request request) {
-    cout << "Server " << id<< " is processing request from " << request.ip_in << " to " << request.ip_out << " for " << request.processing_time << " seconds" << endl;
+    cout << "Server " << id<< " is processing request from " << request.ip_in << " to " << request.ip_out << " for " << request.processing_time << " seconds Ratio: " ;
     isBusy = true;
     timeLeft = request.processing_time;
 }

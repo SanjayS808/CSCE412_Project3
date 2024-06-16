@@ -10,10 +10,13 @@ using namespace std;
 class LoadBalancer{
     private:
         
-        vector<WebServer> servers;
+        //members
         int numServers;
         int time;
+        
     public:
+
+        vector<WebServer> servers;
         RequestQueue requestQueue;
         LoadBalancer(int numServers, int time);
         void initQueue(int size);
