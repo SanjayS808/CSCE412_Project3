@@ -1,0 +1,176 @@
+\doxysection{Load\+Balancer Class Reference}
+\hypertarget{class_load_balancer}{}\label{class_load_balancer}\index{LoadBalancer@{LoadBalancer}}
+
+
+\doxylink{class_load_balancer}{Load\+Balancer} class manages a collection of \doxylink{class_web_server}{Web\+Server} instances and a \doxylink{class_request_queue}{Request\+Queue}.  
+
+
+
+
+{\ttfamily \#include $<$Load\+Balancer.\+h$>$}
+
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_load_balancer_afea084c347b423d39291a60fda79363c}{Load\+Balancer}} (int \mbox{\hyperlink{class_load_balancer_acaa0f5fe812ec75c7d177c0fb8b181fc}{num\+Servers}}, int \mbox{\hyperlink{class_load_balancer_a363317f241373a9b71b03df5b4927265}{time}})
+\begin{DoxyCompactList}\small\item\em Constructor for \doxylink{class_load_balancer}{Load\+Balancer} class. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_load_balancer_a7aaba36f318bf09ac29996e20720afc8}{init\+Queue}} (int size)
+\begin{DoxyCompactList}\small\item\em Initializes the request queue with a specified size. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_load_balancer_a86fb71fabe8ce27b1ce204b42466d76b}{tick}} ()
+\begin{DoxyCompactList}\small\item\em Progresses the state of the load balancer by one time unit. Assigns requests to servers and updates server state. \end{DoxyCompactList}\item 
+bool \mbox{\hyperlink{class_load_balancer_a978df8da00618fd74ce2c9fd7509d147}{all\+Servers\+Idle}} ()
+\begin{DoxyCompactList}\small\item\em Checks if all servers are idle. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_load_balancer_a16a7376345511ffd0850b4af06d1567d}{add\+Random\+Request}} ()
+\begin{DoxyCompactList}\small\item\em Adds a random request to the request queue. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_load_balancer_abba1ea74de0f8a69a010a2deb5ae5ecb}{allocate\+Server}} (int \mbox{\hyperlink{class_load_balancer_a363317f241373a9b71b03df5b4927265}{time}})
+\begin{DoxyCompactList}\small\item\em Allocates a server to a request. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+vector$<$ \mbox{\hyperlink{class_web_server}{Web\+Server}} $>$ \mbox{\hyperlink{class_load_balancer_a64f65307b9957f2fa99bb76d2b92d966}{servers}}
+\item 
+\mbox{\hyperlink{class_request_queue}{Request\+Queue}} \mbox{\hyperlink{class_load_balancer_aa5982376d8696c4c24eccfa97d12e276}{request\+Queue}}
+\end{DoxyCompactItemize}
+\doxysubsubsection*{Private Attributes}
+\begin{DoxyCompactItemize}
+\item 
+int \mbox{\hyperlink{class_load_balancer_acaa0f5fe812ec75c7d177c0fb8b181fc}{num\+Servers}}
+\begin{DoxyCompactList}\small\item\em Number of servers in the system. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{class_load_balancer_a363317f241373a9b71b03df5b4927265}{time}}
+\begin{DoxyCompactList}\small\item\em Current time in milliseconds since program start. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+\doxylink{class_load_balancer}{Load\+Balancer} class manages a collection of \doxylink{class_web_server}{Web\+Server} instances and a \doxylink{class_request_queue}{Request\+Queue}. 
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\Hypertarget{class_load_balancer_afea084c347b423d39291a60fda79363c}\index{LoadBalancer@{LoadBalancer}!LoadBalancer@{LoadBalancer}}
+\index{LoadBalancer@{LoadBalancer}!LoadBalancer@{LoadBalancer}}
+\doxysubsubsection{\texorpdfstring{LoadBalancer()}{LoadBalancer()}}
+{\footnotesize\ttfamily \label{class_load_balancer_afea084c347b423d39291a60fda79363c} 
+Load\+Balancer\+::\+Load\+Balancer (\begin{DoxyParamCaption}\item[{int}]{num\+Servers}{, }\item[{int}]{time}{}\end{DoxyParamCaption})}
+
+
+
+Constructor for \doxylink{class_load_balancer}{Load\+Balancer} class. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em num\+Servers} & Number of servers to initialize. \\
+\hline
+{\em time} & Time interval for server tick.\\
+\hline
+{\em num\+Servers} & Number of initial servers to create. \\
+\hline
+{\em time} & Time interval for server tick. \\
+\hline
+\end{DoxyParams}
+
+
+\doxysubsection{Member Function Documentation}
+\Hypertarget{class_load_balancer_a16a7376345511ffd0850b4af06d1567d}\index{LoadBalancer@{LoadBalancer}!addRandomRequest@{addRandomRequest}}
+\index{addRandomRequest@{addRandomRequest}!LoadBalancer@{LoadBalancer}}
+\doxysubsubsection{\texorpdfstring{addRandomRequest()}{addRandomRequest()}}
+{\footnotesize\ttfamily \label{class_load_balancer_a16a7376345511ffd0850b4af06d1567d} 
+void Load\+Balancer\+::add\+Random\+Request (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Adds a random request to the request queue. 
+
+\Hypertarget{class_load_balancer_abba1ea74de0f8a69a010a2deb5ae5ecb}\index{LoadBalancer@{LoadBalancer}!allocateServer@{allocateServer}}
+\index{allocateServer@{allocateServer}!LoadBalancer@{LoadBalancer}}
+\doxysubsubsection{\texorpdfstring{allocateServer()}{allocateServer()}}
+{\footnotesize\ttfamily \label{class_load_balancer_abba1ea74de0f8a69a010a2deb5ae5ecb} 
+void Load\+Balancer\+::allocate\+Server (\begin{DoxyParamCaption}\item[{int}]{time}{}\end{DoxyParamCaption})}
+
+
+
+Allocates a server to a request. 
+
+Allocates or deallocates servers based on queue length and server idle status.
+
+
+\begin{DoxyParams}{Parameters}
+{\em time} & Time interval for server tick. \\
+\hline
+\end{DoxyParams}
+\Hypertarget{class_load_balancer_a978df8da00618fd74ce2c9fd7509d147}\index{LoadBalancer@{LoadBalancer}!allServersIdle@{allServersIdle}}
+\index{allServersIdle@{allServersIdle}!LoadBalancer@{LoadBalancer}}
+\doxysubsubsection{\texorpdfstring{allServersIdle()}{allServersIdle()}}
+{\footnotesize\ttfamily \label{class_load_balancer_a978df8da00618fd74ce2c9fd7509d147} 
+bool Load\+Balancer\+::all\+Servers\+Idle (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Checks if all servers are idle. 
+
+\begin{DoxyReturn}{Returns}
+True if all servers are idle, false otherwise. 
+\end{DoxyReturn}
+\Hypertarget{class_load_balancer_a7aaba36f318bf09ac29996e20720afc8}\index{LoadBalancer@{LoadBalancer}!initQueue@{initQueue}}
+\index{initQueue@{initQueue}!LoadBalancer@{LoadBalancer}}
+\doxysubsubsection{\texorpdfstring{initQueue()}{initQueue()}}
+{\footnotesize\ttfamily \label{class_load_balancer_a7aaba36f318bf09ac29996e20720afc8} 
+void Load\+Balancer\+::init\+Queue (\begin{DoxyParamCaption}\item[{int}]{size}{}\end{DoxyParamCaption})}
+
+
+
+Initializes the request queue with a specified size. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em size} & Size of the request queue to initialize. \\
+\hline
+\end{DoxyParams}
+\Hypertarget{class_load_balancer_a86fb71fabe8ce27b1ce204b42466d76b}\index{LoadBalancer@{LoadBalancer}!tick@{tick}}
+\index{tick@{tick}!LoadBalancer@{LoadBalancer}}
+\doxysubsubsection{\texorpdfstring{tick()}{tick()}}
+{\footnotesize\ttfamily \label{class_load_balancer_a86fb71fabe8ce27b1ce204b42466d76b} 
+void Load\+Balancer\+::tick (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Progresses the state of the load balancer by one time unit. Assigns requests to servers and updates server state. 
+
+
+
+\doxysubsection{Member Data Documentation}
+\Hypertarget{class_load_balancer_acaa0f5fe812ec75c7d177c0fb8b181fc}\index{LoadBalancer@{LoadBalancer}!numServers@{numServers}}
+\index{numServers@{numServers}!LoadBalancer@{LoadBalancer}}
+\doxysubsubsection{\texorpdfstring{numServers}{numServers}}
+{\footnotesize\ttfamily \label{class_load_balancer_acaa0f5fe812ec75c7d177c0fb8b181fc} 
+int Load\+Balancer\+::num\+Servers\hspace{0.3cm}{\ttfamily [private]}}
+
+
+
+Number of servers in the system. 
+
+\Hypertarget{class_load_balancer_aa5982376d8696c4c24eccfa97d12e276}\index{LoadBalancer@{LoadBalancer}!requestQueue@{requestQueue}}
+\index{requestQueue@{requestQueue}!LoadBalancer@{LoadBalancer}}
+\doxysubsubsection{\texorpdfstring{requestQueue}{requestQueue}}
+{\footnotesize\ttfamily \label{class_load_balancer_aa5982376d8696c4c24eccfa97d12e276} 
+\mbox{\hyperlink{class_request_queue}{Request\+Queue}} Load\+Balancer\+::request\+Queue}
+
+\Hypertarget{class_load_balancer_a64f65307b9957f2fa99bb76d2b92d966}\index{LoadBalancer@{LoadBalancer}!servers@{servers}}
+\index{servers@{servers}!LoadBalancer@{LoadBalancer}}
+\doxysubsubsection{\texorpdfstring{servers}{servers}}
+{\footnotesize\ttfamily \label{class_load_balancer_a64f65307b9957f2fa99bb76d2b92d966} 
+vector$<$\mbox{\hyperlink{class_web_server}{Web\+Server}}$>$ Load\+Balancer\+::servers}
+
+\Hypertarget{class_load_balancer_a363317f241373a9b71b03df5b4927265}\index{LoadBalancer@{LoadBalancer}!time@{time}}
+\index{time@{time}!LoadBalancer@{LoadBalancer}}
+\doxysubsubsection{\texorpdfstring{time}{time}}
+{\footnotesize\ttfamily \label{class_load_balancer_a363317f241373a9b71b03df5b4927265} 
+int Load\+Balancer\+::time\hspace{0.3cm}{\ttfamily [private]}}
+
+
+
+Current time in milliseconds since program start. 
+
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{_load_balancer_8h}{Load\+Balancer.\+h}}\item 
+\mbox{\hyperlink{_load_balancer_8cpp}{Load\+Balancer.\+cpp}}\end{DoxyCompactItemize}

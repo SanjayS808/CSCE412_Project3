@@ -1,0 +1,157 @@
+\doxysection{Request Class Reference}
+\hypertarget{class_request}{}\label{class_request}\index{Request@{Request}}
+
+
+The \doxylink{class_request}{Request} class represents a network request.  
+
+
+
+
+{\ttfamily \#include $<$Request.\+h$>$}
+
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{class_request_a5132eaa8a057eacb70c85f361f7f8bc9}{print\+Request}} ()
+\begin{DoxyCompactList}\small\item\em Prints the details of the request. \end{DoxyCompactList}\item 
+\mbox{\hyperlink{class_request_ad7005790f76440cc9a711cc7c81a6587}{Request}} (string ip\+In, string ip\+Out, int time)
+\begin{DoxyCompactList}\small\item\em Constructs a \doxylink{class_request}{Request} object with the given parameters. \end{DoxyCompactList}\item 
+\mbox{\hyperlink{class_request_afaf8d8928de7ffff8a3767589489bd33}{Request}} ()
+\begin{DoxyCompactList}\small\item\em Default constructor for \doxylink{class_request}{Request} class. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+string \mbox{\hyperlink{class_request_a2b93ebbd0fbd5ebf8b15f5583b087a12}{ip\+\_\+in}}
+\begin{DoxyCompactList}\small\item\em The source IP address of the request. \end{DoxyCompactList}\item 
+string \mbox{\hyperlink{class_request_ae3394ea2aa8654ec22bc87083a8d3bda}{ip\+\_\+out}}
+\begin{DoxyCompactList}\small\item\em The destination IP address of the request. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{class_request_acc69c067c1d2b35766028e746044e491}{processing\+\_\+time}}
+\begin{DoxyCompactList}\small\item\em The processing time required for the request. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Private Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+string \mbox{\hyperlink{class_request_a34ff56018b76ee2780c4162d7f890e8c}{gen\+Random\+Ip}} ()
+\begin{DoxyCompactList}\small\item\em Generates a random IP address. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{class_request_a1a2e56a827440d328d8c7bebd652ddc3}{gen\+Random\+Time}} ()
+\begin{DoxyCompactList}\small\item\em Generates a random processing time. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+The \doxylink{class_request}{Request} class represents a network request. 
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\Hypertarget{class_request_ad7005790f76440cc9a711cc7c81a6587}\index{Request@{Request}!Request@{Request}}
+\index{Request@{Request}!Request@{Request}}
+\doxysubsubsection{\texorpdfstring{Request()}{Request()}\hspace{0.1cm}{\footnotesize\ttfamily [1/2]}}
+{\footnotesize\ttfamily \label{class_request_ad7005790f76440cc9a711cc7c81a6587} 
+Request\+::\+Request (\begin{DoxyParamCaption}\item[{string}]{ip\+In}{, }\item[{string}]{ip\+Out}{, }\item[{int}]{time}{}\end{DoxyParamCaption})}
+
+
+
+Constructs a \doxylink{class_request}{Request} object with the given parameters. 
+
+Constructor for initializing a \doxylink{class_request}{Request} with specified parameters.
+
+
+\begin{DoxyParams}{Parameters}
+{\em ip\+In} & The source IP address of the request. \\
+\hline
+{\em ip\+Out} & The destination IP address of the request. \\
+\hline
+{\em time} & The processing time required for the request.\\
+\hline
+{\em ip\+In} & Source IP address. \\
+\hline
+{\em ip\+Out} & Destination IP address. \\
+\hline
+{\em time} & Processing time in milliseconds. \\
+\hline
+\end{DoxyParams}
+\Hypertarget{class_request_afaf8d8928de7ffff8a3767589489bd33}\index{Request@{Request}!Request@{Request}}
+\index{Request@{Request}!Request@{Request}}
+\doxysubsubsection{\texorpdfstring{Request()}{Request()}\hspace{0.1cm}{\footnotesize\ttfamily [2/2]}}
+{\footnotesize\ttfamily \label{class_request_afaf8d8928de7ffff8a3767589489bd33} 
+Request\+::\+Request (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Default constructor for \doxylink{class_request}{Request} class. 
+
+Constructor for initializing a \doxylink{class_request}{Request} with random parameters. 
+
+\doxysubsection{Member Function Documentation}
+\Hypertarget{class_request_a34ff56018b76ee2780c4162d7f890e8c}\index{Request@{Request}!genRandomIp@{genRandomIp}}
+\index{genRandomIp@{genRandomIp}!Request@{Request}}
+\doxysubsubsection{\texorpdfstring{genRandomIp()}{genRandomIp()}}
+{\footnotesize\ttfamily \label{class_request_a34ff56018b76ee2780c4162d7f890e8c} 
+string Request\+::gen\+Random\+Ip (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [private]}}
+
+
+
+Generates a random IP address. 
+
+\begin{DoxyReturn}{Returns}
+A randomly generated IP address. 
+\end{DoxyReturn}
+\Hypertarget{class_request_a1a2e56a827440d328d8c7bebd652ddc3}\index{Request@{Request}!genRandomTime@{genRandomTime}}
+\index{genRandomTime@{genRandomTime}!Request@{Request}}
+\doxysubsubsection{\texorpdfstring{genRandomTime()}{genRandomTime()}}
+{\footnotesize\ttfamily \label{class_request_a1a2e56a827440d328d8c7bebd652ddc3} 
+int Request\+::gen\+Random\+Time (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [private]}}
+
+
+
+Generates a random processing time. 
+
+\begin{DoxyReturn}{Returns}
+A randomly generated processing time. 
+\end{DoxyReturn}
+\Hypertarget{class_request_a5132eaa8a057eacb70c85f361f7f8bc9}\index{Request@{Request}!printRequest@{printRequest}}
+\index{printRequest@{printRequest}!Request@{Request}}
+\doxysubsubsection{\texorpdfstring{printRequest()}{printRequest()}}
+{\footnotesize\ttfamily \label{class_request_a5132eaa8a057eacb70c85f361f7f8bc9} 
+void Request\+::print\+Request (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Prints the details of the request. 
+
+This function prints the source IP address, destination IP address, and processing time of the request. 
+
+\doxysubsection{Member Data Documentation}
+\Hypertarget{class_request_a2b93ebbd0fbd5ebf8b15f5583b087a12}\index{Request@{Request}!ip\_in@{ip\_in}}
+\index{ip\_in@{ip\_in}!Request@{Request}}
+\doxysubsubsection{\texorpdfstring{ip\_in}{ip\_in}}
+{\footnotesize\ttfamily \label{class_request_a2b93ebbd0fbd5ebf8b15f5583b087a12} 
+string Request\+::ip\+\_\+in}
+
+
+
+The source IP address of the request. 
+
+\Hypertarget{class_request_ae3394ea2aa8654ec22bc87083a8d3bda}\index{Request@{Request}!ip\_out@{ip\_out}}
+\index{ip\_out@{ip\_out}!Request@{Request}}
+\doxysubsubsection{\texorpdfstring{ip\_out}{ip\_out}}
+{\footnotesize\ttfamily \label{class_request_ae3394ea2aa8654ec22bc87083a8d3bda} 
+string Request\+::ip\+\_\+out}
+
+
+
+The destination IP address of the request. 
+
+\Hypertarget{class_request_acc69c067c1d2b35766028e746044e491}\index{Request@{Request}!processing\_time@{processing\_time}}
+\index{processing\_time@{processing\_time}!Request@{Request}}
+\doxysubsubsection{\texorpdfstring{processing\_time}{processing\_time}}
+{\footnotesize\ttfamily \label{class_request_acc69c067c1d2b35766028e746044e491} 
+int Request\+::processing\+\_\+time}
+
+
+
+The processing time required for the request. 
+
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{_request_8h}{Request.\+h}}\item 
+\mbox{\hyperlink{_request_8cpp}{Request.\+cpp}}\end{DoxyCompactItemize}

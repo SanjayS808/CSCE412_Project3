@@ -1,28 +1,61 @@
 #ifndef REQUEST_H
 #define REQUEST_H
+
 #include <iostream>
 #include <string>
+
 using namespace std;
+
+/**
+ * @brief The Request class represents a network request.
+ */
 class Request {
-    
-    public:
-        string ip_in;
-        string ip_out;
-        int processing_time;
+public:
+    /**
+     * @brief The source IP address of the request.
+     */
+    string ip_in;
 
-        //Prints the request
-        void printRequest();
+    /**
+     * @brief The destination IP address of the request.
+     */
+    string ip_out;
 
-        //Constructor for request
-        Request(string ipIn, string ipOut, int time);
-        Request();
-    private:
-        //Helpers to generate random vals for request
-        string genRandomIp();
-        int genRandomTime();
+    /**
+     * @brief The processing time required for the request.
+     */
+    int processing_time;
 
+    /**
+     * @brief Prints the details of the request.
+     */
+    void printRequest();
 
+    /**
+     * @brief Constructs a Request object with the given parameters.
+     * @param ipIn The source IP address of the request.
+     * @param ipOut The destination IP address of the request.
+     * @param time The processing time required for the request.
+     */
+    Request(string ipIn, string ipOut, int time);
 
+    /**
+     * @brief Default constructor for Request class.
+     */
+    Request();
+
+private:
+    /**
+     * @brief Generates a random IP address.
+     * @return A randomly generated IP address.
+     */
+    string genRandomIp();
+
+    /**
+     * @brief Generates a random processing time.
+     * @return A randomly generated processing time.
+     */
+    int genRandomTime();
 };
 
 #endif // REQUEST_H

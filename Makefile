@@ -23,5 +23,6 @@ $(TARGET): $(OBJS)
 # Clean up build files
 clean:
 	rm -f $(TARGET) $(OBJS)
+	rm log.txt
 
 .PHONY: all clean
