@@ -10,6 +10,14 @@ class WebServer{
     public:
         int id;
         bool isBusy;
+        void processRequest(Request request);
+        void tick();
+        int timeLeft;
+        WebServer(int id, int time) {
+            this->id = id;
+            isBusy = false;
+            this->timeLeft = time;
+        }
     
 };
 

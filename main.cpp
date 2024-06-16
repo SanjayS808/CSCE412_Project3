@@ -1,6 +1,7 @@
 #include <iostream>
 #include "Request.h"
 #include "RequestQueue.h"
+#include "Webserver.h"
 
 int main() {
     Request test;
@@ -12,14 +13,15 @@ int main() {
     queue.addRequest(test1);
     queue.addRequest(test2);
 
-    queue.printRequestQueue();
+    int time = 10000;
+    WebServer server(1, time);
 
-    cout << queue.isEmpty() << endl;
-    queue.getNextRequest();
-    queue.getNextRequest().printRequest();
-    queue.getNextRequest();
-    cout << queue.isEmpty() << endl;
-    
+    while (!queue.isEmpty()) {
+        Request nextRequest = queue.getNextRequest();
+        server.processRequest(nextRequest);
+        server.tick();
+    }
+
 
 
 }
