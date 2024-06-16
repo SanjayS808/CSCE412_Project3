@@ -1,16 +1,27 @@
-CC = gcc
-CFLAGS = -Wall -Werror
-all: myprogram
+# Define the compiler and compiler flags
+CXX := g++
+CXXFLAGS := -Wall -std=c++11 -Wno-unused-private-field
 
-myprogram: main.o utils.o
-    $(CC) $(CFLAGS) -o myprogram main.o utils.o
+# Define the target executable and source files
+TARGET := myprogram
+SRCS := main.cpp Request.cpp RequestQueue.cpp WebServer.cpp LoadBalancer.cpp
 
-main.o: main.c
-    $(CC) $(CFLAGS) -c main.c
+# Define the object files (derived from source files)
+OBJS := $(SRCS:.cpp=.o)
 
-utils.o: utils.c
-    $(CC) $(CFLAGS) -c utils.c
+# Default rule to build the target
+all: $(TARGET)
 
+# Rule to build the target executable
+$(TARGET): $(OBJS)
+	$(CXX) -o $(TARGET) $(OBJS)
+
+# Rule to build the object files
+%.o: %.cpp
+	$(CXX) $(CXXFLAGS) -c $< -o $@
+
+# Clean up build files
 clean:
-    rm -f myprogram *.o
+	rm -f $(TARGET) $(OBJS)
 
+.PHONY: all clean

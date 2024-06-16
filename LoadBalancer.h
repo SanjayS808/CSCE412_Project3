@@ -9,16 +9,18 @@
 using namespace std;
 class LoadBalancer{
     private:
-        RequestQueue requestQueue;
+        
         vector<WebServer> servers;
         int numServers;
         int time;
     public:
+        RequestQueue requestQueue;
         LoadBalancer(int numServers, int time);
         void initQueue(int size);
         void tick();
         bool allServersIdle();
         void addRandomRequest();
+        void allocateServer(int time);
 
 };  
 

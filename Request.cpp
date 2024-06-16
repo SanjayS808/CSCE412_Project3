@@ -30,7 +30,7 @@ string Request::genRandomIp() {
 }
 
 int Request::genRandomTime() {
-    return std::rand() % 1000 + 1;
+    return std::rand() % 250 + 1;
 }
 
 void Request::printRequest() {

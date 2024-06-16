@@ -1,27 +1,35 @@
+// main.cpp
+#include "LoadBalancer.h"
 #include <iostream>
-#include "Request.h"
-#include "RequestQueue.h"
-#include "WebServer.h"
 
 int main() {
-    Request test;
-    Request test1;
-    Request test2;
+    int numServers;
+    int runTime;
+    int initialQueueSize;
 
-    RequestQueue queue;
-    queue.addRequest(test);
-    queue.addRequest(test1);
-    queue.addRequest(test2);
+    std::cout << "Enter the number of servers: ";
+    std::cin >> numServers;
 
-    int time = 10000;
-    WebServer server(1, time);
+    std::cout << "Enter the simulation run time (in clock cycles): ";
+    std::cin >> runTime;
 
-    while (!queue.isEmpty()) {
-        Request nextRequest = queue.getNextRequest();
-        server.processRequest(nextRequest);
-        server.tick();
+    initialQueueSize = numServers * 50;
+
+    LoadBalancer loadBalancer(numServers, runTime);
+    loadBalancer.initQueue(initialQueueSize);
+
+    for (int time = 0; time < runTime; ++time) {
+        loadBalancer.tick();
+        if (rand() % 50 == 0 ) { // Randomly add new requests
+
+           loadBalancer.addRandomRequest();
+        }
+        loadBalancer.allocateServer(time);
+
     }
 
+    cout << loadBalancer.requestQueue.requests.size() << " requests remaining in queue" << endl;
+    std::cout << "Simulation complete. All servers are idle: " << std::boolalpha << loadBalancer.allServersIdle() << std::endl;
 
-
+    return 0;
 }

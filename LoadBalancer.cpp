@@ -19,6 +19,7 @@ void LoadBalancer::initQueue(int size) {
 
 void LoadBalancer::addRandomRequest() {
     Request request;
+    cout << "New request from "<<request.ip_in << " to " << request.ip_out << "for " <<request.processing_time <<"ms was added to queue" << endl;
     requestQueue.addRequest(request);
 }
 
@@ -38,4 +39,24 @@ bool LoadBalancer::allServersIdle() {
         }
     }
     return true;
+}
+
+void LoadBalancer::allocateServer(int time) {
+    int ratio = requestQueue.requests.size() / servers.size();
+    if (ratio > 100){
+        WebServer newServer(servers[-1].id + 1, time);
+        servers.push_back(newServer);
+        cout<< "Server " << servers[-1].id << " has been allocated" << endl;
+    }   
+    else if (ratio < 50 && servers.size() > 1){ 
+        
+        cout<< "Server " << servers[-1].id << " has been deallocted" << endl;
+        servers.pop_back();
+    }
+    else{
+        return;
+    }
+       
+    
+
 }

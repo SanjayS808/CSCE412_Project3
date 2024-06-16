@@ -8,8 +8,9 @@ using namespace std;
 
 class RequestQueue{
     private:
-        queue<Request> requests;
+        
     public:
+        queue<Request> requests;
         void addRequest(Request request);
         bool isEmpty();
         Request getNextRequest();
