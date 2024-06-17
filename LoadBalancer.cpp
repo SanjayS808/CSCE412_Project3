@@ -38,7 +38,7 @@ void LoadBalancer::initQueue(int size) {
 
 void LoadBalancer::addRandomRequest() {
     Request request;
-    cout << "New request from "<<request.ip_in << " to " << request.ip_out << "for " <<request.processing_time <<" s was added to queue." << endl;
+    cout << "New request from "<<request.ip_in << " to " << request.ip_out << " for " <<request.processing_time <<" s was added to queue." << endl;
     requestQueue.addRequest(request);
 }
 
