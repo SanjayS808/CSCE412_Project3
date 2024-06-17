@@ -50,7 +50,15 @@ int main() {
     // Start simulation
     cout << "Simulation started" << endl;
     for (int time = 0; time < runTime; ++time) {
-        loadBalancer.tick(time);
+        loadBalancer.tick();
+
+        // Randomly add new requests
+        if (rand() % 50 == 0 && time < 1000) {
+            loadBalancer.addRandomRequest();
+        }
+        
+        // Allocate server resources
+        loadBalancer.allocateServer(time);
     }
 
     // Simulation complete

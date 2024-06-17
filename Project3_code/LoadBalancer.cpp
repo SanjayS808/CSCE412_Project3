@@ -48,7 +48,7 @@ void LoadBalancer::addRandomRequest() {
  *        Assigns requests to servers and updates server state.
  */
 
-void LoadBalancer::tick(int time){
+void LoadBalancer::tick(){
     for (auto& server : servers) {
         if (!server.isBusy && !requestQueue.isEmpty()) {
             server.processRequest(requestQueue.getNextRequest());
@@ -56,10 +56,6 @@ void LoadBalancer::tick(int time){
         }
         server.tick();
     }
-    allocateServer(time);
-    if (rand() % 50 == 0 && time < 1000) {
-            addRandomRequest();
-        }
 }
 
 /**

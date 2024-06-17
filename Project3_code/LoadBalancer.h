@@ -43,7 +43,7 @@ class LoadBalancer{
          * @brief Progresses the state of the load balancer by one time unit.
          *        Assigns requests to servers and updates server state.
          */
-        void tick(int time);
+        void tick();
         /**
          * @brief Checks if all servers are idle.
          * 
